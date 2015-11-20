@@ -1,0 +1,1164 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: byorgey@gmail.com
+Received: by 10.182.105.130 with SMTP id gm2csp1850812obb;
+        Thu, 19 Nov 2015 08:28:48 -0800 (PST)
+X-Received: by 10.182.73.225 with SMTP id o1mr5731392obv.80.1447950516198;
+        Thu, 19 Nov 2015 08:28:36 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mailfrom=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.202.4.197 with POP3 id 188mf18615019oie.1;
+        Thu, 19 Nov 2015 08:28:36 -0800 (PST)
+X-Gmail-Fetch-Info: yorgey@hendrix.edu 1 outlook.office365.com 995 yorgey@hendrix.edu
+Received: from CY1PR0501MB1420.namprd05.prod.outlook.com (10.160.148.150) by
+ BY1PR0501MB1416.namprd05.prod.outlook.com (10.160.107.150) with Microsoft
+ SMTP Server (TLS) id 15.1.325.17 via Mailbox Transport; Thu, 19 Nov 2015
+ 15:43:08 +0000
+Received: from CO2PR0501MB887.namprd05.prod.outlook.com (10.141.247.154) by
+ CY1PR0501MB1420.namprd05.prod.outlook.com (10.160.148.150) with Microsoft
+ SMTP Server (TLS) id 15.1.331.20; Thu, 19 Nov 2015 15:43:07 +0000
+Received: from CO2PR0501MB885.namprd05.prod.outlook.com (10.141.247.152) by
+ CO2PR0501MB887.namprd05.prod.outlook.com (10.141.247.154) with Microsoft SMTP
+ Server (TLS) id 15.1.318.15; Thu, 19 Nov 2015 15:42:31 +0000
+Received: from CO2PR0501MB885.namprd05.prod.outlook.com ([10.141.247.152]) by
+ CO2PR0501MB885.namprd05.prod.outlook.com ([10.141.247.152]) with mapi id
+ 15.01.0318.003; Thu, 19 Nov 2015 15:42:31 +0000
+From: Communications <prstu2@hendrix.edu>
+To: Hendrix Today <HToday@hendrix.edu>
+Subject: Hendrix Today: Thursday, Nov. 19
+Thread-Topic: Hendrix Today: Thursday, Nov. 19
+Thread-Index: AdEi4OMnuzu3BDOXR4iH7pa8quypCQ==
+Date: Thu, 19 Nov 2015 09:42:30 -0600
+Message-ID:
+	<CO2PR0501MB88562A75A41261E0838562A861B0@CO2PR0501MB885.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+	CO2PR0501MB885.namprd05.prod.outlook.com
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+	4a0b92b7-d6ea-4b72-d140-08d2f0f8094f
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+Content-Type: multipart/related;
+	boundary="_002_CO2PR0501MB88562A75A41261E0838562A861B0CO2PR0501MB885na_";
+	type="text/html"
+MIME-Version: 1.0
+
+--_002_CO2PR0501MB88562A75A41261E0838562A861B0CO2PR0501MB885na_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><img width=3D"649" height=3D"116" id=3D"Picture_x0020_2" src=3D=
+"cid:image001.jpg@01D122AE.9A4879F0"></span><span style=3D"font-family:&quo=
+t;Trebuchet MS&quot;,sans-serif"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:0in;margin-right:0in;mar=
+gin-bottom:8.0pt;margin-left:13.5pt">
+<span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,sans-s=
+erif;color:#F5822A;letter-spacing:.75pt"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:0in;margin-right:0in;mar=
+gin-bottom:8.0pt;margin-left:13.5pt">
+<span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,sans-s=
+erif;color:#F5822A;letter-spacing:.75pt"><a href=3D"#_EVENTS"><span style=
+=3D"color:#F5822A">EVENTS</span></a></span><span style=3D"font-size:10.0pt;=
+font-family:&quot;Trebuchet MS&quot;,sans-serif;color:#F5822A;letter-spacin=
+g:.75pt">
+<b>|</b> </span><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet=
+ MS&quot;,sans-serif;color:#F5822A;letter-spacing:.75pt"><a href=3D"#_ANNOU=
+NCEMENTS"><span style=3D"color:#F5822A">ANNOUNCEMENTS</span></a></span><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,sans-serif=
+;color:#F5822A;letter-spacing:.75pt">
+<b>|</b> </span><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet=
+ MS&quot;,sans-serif;color:#F5822A;letter-spacing:.75pt"><a href=3D"#_MEETI=
+NGS"><span style=3D"color:#F5822A">MEETINGS</span></a></span><span style=3D=
+"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,sans-serif;color:#F5=
+822A;letter-spacing:.75pt">
+ | </span><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&qu=
+ot;,sans-serif;color:#F5822A;letter-spacing:.75pt"><a href=3D"#_MENU"><span=
+ style=3D"color:#F5822A">MENU</span></a></span><span style=3D"font-size:10.=
+0pt;font-family:&quot;Trebuchet MS&quot;,sans-serif;color:#F5822A;letter-sp=
+acing:.75pt">
+<b>|</b> </span><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet=
+ MS&quot;,sans-serif;color:#F5822A;letter-spacing:.75pt"><a href=3D"#_LOST_=
+&amp;_FOUND"><span style=3D"color:#F5822A">LOST &amp; FOUND</span></a></spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,sans=
+-serif;color:#F5822A;letter-spacing:.75pt">
+<b>|</b> </span><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet=
+ MS&quot;,sans-serif;color:#F5822A;letter-spacing:.75pt"><a href=3D"https:/=
+/www.hendrix.edu/hendrixtoday"><span style=3D"color:#F5822A">SUBMISSIONS</s=
+pan></a>&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;=
+,sans-serif;color:#F5822A;letter-spacing:.75pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Thursday, November 19, 2015</span>=
+<span style=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif"><o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"_EVENTS"></a=
+><b><span style=3D"font-size:14.0pt;font-family:&quot;Trebuchet MS&quot;,sa=
+ns-serif;color:black">EVENTS<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Arab Club Street Coffee Shop<o:=
+p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Stop by the street coffee shop hos=
+ted by Arab Club today from 11 a.m. =A1=AA 1 p.m. in the Burrow. We will se=
+rve Turkish coffee, Arabic tea, and baklava. We will
+ also accept donations to the Syrian Children's Relief Fund.<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Study Abroad with ISA<o:p></o:p=
+></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Stop by the sunporch today between=
+ 11 a.m. =A1=AA noon, to visit with a representative from ISA to learn abou=
+t study abroad opportunities around the world. For more
+ information, contact <a href=3D"mailto:courtway@hendrix.edu"><span style=
+=3D"color:#F79646">courtway@hendrix.edu</span></a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">SPS Guest Lecture: Dr. Hugh Chu=
+rchill<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Society of Physics Students will b=
+e hosting guest lecturer, Dr. Hugh Churchill from the University of Arkansa=
+s, today at 4:10 p.m. in MC Reynolds 115. Dr. Churchill
+ will be discussing his current research on quantum transport and optoelect=
+ronics in atomically layered materials, as well as on the REU program at UA=
+rk.&nbsp;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Forum on Diversity and Inclusio=
+n<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">All are welcome today at 4:15 =A1=
+=AA 6 p.m. in Mills A to share their experiences of exclusion at Hendrix, t=
+o hear the perspectives of friends and colleagues who
+ are different from ourselves, to learn who we are as a community. If we wa=
+nt to find a path to real inclusion, we need to understand where we are tod=
+ay. We hope to create a space to listen and learn today to be followed by s=
+essions focused on problem solving
+ in the near future. Arrive late or leave early if need be, but please join=
+ us if you can!<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Fellowship<o:p></o:p></span></b=
+></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Come for a home-cooked meal and pr=
+ogramming designed for spiritual growth with Hendrix students from various =
+Christian communities today at 5:40 =A1=AA 6:40 p.m.
+ in Worsham North. Sponsored by the Miller Center. For more information, co=
+ntact <a href=3D"mailto:frenchh@hendrix.edu">
+<span style=3D"color:#F79646">Hanna French</span></a>.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">SBC (Students for Black Culture=
+) NBA 2K Game Night<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Consider yourself the best at NBA =
+2k16?&nbsp; You will have your chance to earn bragging rights on the Xbox O=
+ne today night from 6:30 =A1=AA 9:30 p.m. in Bates Dining
+ Hall. If you are not a gamer, there will be card games, dominoes, and othe=
+r fun group activities. This event is open to the entire Hendrix community.=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Hendrix Gaming Club<o:p></o:p><=
+/span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Love playing Smash Bros? Come to C=
+ampbell Dining Hall today and every Thursday from 6:30 =A1=AA 10 p.m. We wi=
+ll be playing all games of the franchise. Bring your
+ own controllers and setups if you can. Casual players and newcomers are we=
+lcome.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">War Movies Research<o:p></o:p><=
+/span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Come to Mills C at 7 p.m. today to=
+ watch a movie about Iraq War veterans and help one of your peers with a re=
+search project. The study only requires that participants
+ take a short survey before and after the film. For research purposes, the =
+movie title cannot be disclosed but you will not be disappointed. Must be a=
+t least 18 to participate.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Pinnacle Brass Quintet Recital<=
+o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Pinnacle Brass Quintet is the Facu=
+lty Brass Quint at the University of Central Arkansas and will present a re=
+cital of classical and jazz music. The recital will
+ be in Reves Recital hall today at 7:30 pm.</span><span style=3D"font-famil=
+y:&quot;Courier New&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Larry Jones, Trumpet, UCA Faculty
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Dr. Stephen James, Trumpet, Hendri=
+x Faculty<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Dr. Brent Shires, Horn, UCA and He=
+ndrix Faculty
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Justin Cook, Trombone, UCA Faculty
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Dr. Gail Robertson, Tuba, UCA Facu=
+lty&nbsp;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Word Garden<o:p></o:p></span></=
+b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Join us for Word Garden today from=
+ 8 =A1=AA 9 p.m. in the Murphy House. Word Garden is a student reading seri=
+es featuring the best Hendrix creative writing. This
+ week we will be hearing from student readers Ellie Black, Steven Hulsey, a=
+nd Isabelle Pfeffer. If you have any questions, please contact
+<a href=3D"mailto:kressinmv@hendrix.edu"><span style=3D"color:#F79646">Mari=
+e Kressin</span></a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Open Mic Night<o:p></o:p></span=
+></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Hendrix students and faculty?&nbsp=
+; Want to share music, poetry, dramatic monologue, or art?&nbsp; Come to th=
+e Black Orange in Conway tonight from 8 =A1=AA 10 p.m. All types
+ of performers are welcome to share their talents.&nbsp; A project of Fat S=
+oul International. For information, contact
+<a href=3D"mailto:McDaniel@hendrix.edu"><span style=3D"color:#F79646">Jay M=
+cDaniel</span></a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Soc/Anth Club Speaker<o:p></o:p=
+></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Interested in Anthropology or Arch=
+aeology? Wondering what life after Hendrix might look like with an Anthropo=
+lgy degree? Come join the Soc/Anth Club when we
+ present the speaker, Jose Vilahomat, who will speak about working in Archa=
+eology and applying to Anthropological graduate schools. Join us with some =
+lunch or just your pretty little self in Campbell Dining Hall North today.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Literature and Language Over Lu=
+nch<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Join us for informal conversation =
+about literature and language on Fridays from noon =A1=AA 1 p.m. in the Mur=
+phy House. All students, faculty, and staff are welcome.
+ You may brown-bag or, if you RSVP by today at noon to Henryetta Vanaman at=
+ <a href=3D"mailto:vanaman@hendrix.edu">
+<span style=3D"color:#F79646">vanaman@hendrix.edu</span></a>, we will provi=
+de a box lunch. Tomorrow, the topic is &quot;Writing and Learning and Langu=
+age, Oh My: Sabbatical Annals of Drs. Kristi McKim, Ty Jaeger, and Wayne Ou=
+dekerk.&quot;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Odyssey Exemplars-EPROACH<o:p><=
+/o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Experiences in Professional Resear=
+ch Organizations and Atmospheric Chemistry at Hendrix (EPROACH) was a two w=
+eek Odyssey in which four students traveled to the
+ Colorado Front Range to explore new scientific perspectives and research p=
+rofessions in and beyond academia. The EPROACH program included scientist-g=
+uided visits to multiple national research laboratories, informal discussio=
+ns with successful scientists at
+ all stages in their careers, participation in air quality monitoring and h=
+ands-on discovery of atmospheric instrumentation.&nbsp; Students who partic=
+ipated in EPROACH this past summer gained intimate knowledge of various pat=
+hways to careers in research while achieving
+ a broader appreciation and understanding of chemistry. The students will g=
+ive a presentation about their experience at 3 p.m. tomorrow in Mills B. Fo=
+r more information, contact
+<a href=3D"mailto:cambiano@hendrix.edu"><span style=3D"color:#F79646">Janin=
+a Cambiano</span></a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">The Dork Ages: A Retrospective<=
+o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Come by the first floor of the Bai=
+ley Library tomorrow at 7 p.m. to relive your adolescence at Christina Mora=
+les=A1=AF senior exhibit, an ethnographic love letter
+ to the past in the form of a teenage bedroom installation. Hear personal r=
+eflections on how it felt to be young, listen to the collective soundtrack =
+of youth across generations, and explore how media and the defining moments=
+ of growing up are intricately connected.
+ There will be refreshments and collage making.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Days of Diwali<o:p></o:p></span=
+></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Days of Diwali is coming to a loca=
+tion near you. Join Friends of India in celebrating the Festival of Lights,=
+ Diwali or Deepavali. Immerse yourself in a religious
+ pooja (ritual), indulge in food, and impress others with those amazing dan=
+ce skills tomorrow from 4:30 =A1=AA 7:30 p.m. in Campbell Dining Hall. Emai=
+l
+<a href=3D"mailto:ShahDH@hendrix.edu"><span style=3D"color:#F79646">ShahDH@=
+hendrix.edu</span></a> for questions or concerns.</span><span style=3D"font=
+-family:&quot;Courier New&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Sushi-Making Day<o:p></o:p></sp=
+an></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Interested in learning how to make=
+ sushi? Make and eat your own sushi with Asian Cultures Club this Saturday,=
+ Nov. 21, at 1 p.m. in the SLTC kitchen. In order
+ to participate, you must RSVP by emailing <a href=3D"mailto:PhamLT@hendrix=
+.edu"><span style=3D"color:#F79646">PhamLT@hendrix.edu</span></a> before to=
+day. The spots will be given on a first come first serve basis.<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">An Afternoon of Mindfulness and=
+ Compassion<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Save the date: Saturday, Nov. 21, =
+1 =A1=AA 3 p.m., WAC Movement Studio. Hendrix students, faculty and staff a=
+ll welcome. Guest presenter: Dr. Dent Gitchel, certified
+ teacher of Compassion Cultivation Training&#8482;. Also, Dr. Bill Gorvine,=
+ Dr. Jay McDaniel &amp; Meg Gorvine.</span><span style=3D"font-family:&quot=
+;Courier New&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Dr. Gitchel is a faculty in Rehabi=
+litation Counseling at the University of Arkansas at Little Rock and a 1993=
+ graduate of Hendrix College (philosophy). He holds
+ a PhD in Rehabilitation Education and Research from the University of Arka=
+nsas, as well as Post-&shy;</span><span style=3D"font-family:&quot;Cambria =
+Math&quot;,serif">=A9\</span><span style=3D"font-family:&quot;Trebuchet MS&=
+quot;,sans-serif">Master=A1=AFs Certificates in Educational Measurement
+ and Quantitative Research Methods. He was one of the first persons certifi=
+ed as a teacher of Compassion Cultivation Training&#8482;&nbsp; (CCT) throu=
+gh the Center for Compassion and Altruism Research and Education (CCARE) at=
+ Stanford University, and has been selected
+ three times as a Senior Investigator for the Mind and Life Summer Research=
+ Institute. He has presented on Compassion research and cultivation at mult=
+iple State, National and International conferences and teaches CCT workshop=
+s throughout the region.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Dinner in the SLTC Kitchen<o:p>=
+</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Some of our kind lady neighbors fr=
+om the village together with SOAR will be making a meal for students Saturd=
+ay, Nov. 21. Come to the SLTC kitchen at 5 p.m.
+ for a steaming home cooked meal and some good conversations.<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">SOAR Gaming Palooza<o:p></o:p><=
+/span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Join SOAR Saturday, Nov. 21, from =
+8 p.m. =A1=AA 1 2 a.m. in the Campbell Dining Hall. We will have a variety =
+of board games and video games, as well as free food
+ and door prizes. Drop by for a night of fun, food, and prizes.<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">SoCo 54<o:p></o:p></span></b></=
+p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">SoCo 54 will be held Saturday, Nov=
+. 21, in Worsham from 9 p.m. =A1=AA 1 a.m. Wristbands and shirt preorders w=
+ill be on the sunporch tomorrow =A1=AA Saturday, Nov. 21,
+ 11 a.m. =A1=AA 1 p.m. and 5 p.m. =A1=AA 7 p.m. Email <a href=3D"mailto:SOC=
+O@hendrix"><span style=3D"color:#F79646">SOCO@hendrix</span></a> if you hav=
+e any questions.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Volunteer at the Annual Turkey =
+Trot<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Staying at Hendrix for Thanksgivin=
+g? Going home to Little Rock or the central Arkansas areas? Volunteer with =
+Go Running as they hold their annual Turkey Trot
+ fun run/walk in the Heights area of Little Rock on Thanksgiving morning, T=
+hursday, Nov. 26, at 8 a.m. Canned goods will be collected as the entry fee=
+ to be donated to the Arkansas Foodbank. This year's goal is to collect 5,0=
+00 pounds. Volunteers are needed
+ that morning from 7 a.m. =A1=AA 11 a.m. to help with crowd control, man in=
+tersections in the Heights/Hillcrest neighborhoods during the race, and hel=
+p box the food and load the truck. Contact Erin at
+<a href=3D"mailto:erin@gorunning.com"><span style=3D"color:#F79646">erin@go=
+running.com</span></a> to sign up to help. This is a great way to give back=
+ before sitting down to your own holiday meal.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Hendrix Onesie Day<o:p></o:p></=
+span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Join us Tuesday, Dec. 1, for the S=
+econd Annual Hendrix Onesie Day. Dress outside the box to show off your fav=
+orite onesie or footie pajamas and checkout the
+ Onesie Parade at 4 p.m. in the Burrow. Sponsored by the Dean's Office.<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Candlelight Carol Services<o:p>=
+</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">This year's Candlelight Carol Serv=
+ices will be in Greene Chapel, Thursday, Dec. 3 =A1=AA Saturday, Dec. 5, at=
+ 7:30 p.m., and Sunday, Dec. 6, at 4 p.m. Reservations
+ are required and are free of charge. Hendrix students, faculty, and staff =
+may reserve seats by calling 501-450-1495 tomorrow from 10 a.m. =A1=AA 3 p.=
+m. Additional box office hours for the general public are Monday, Nov. 23, =
+and Tuesday, Nov. 24, from 10 a.m. =A1=AA
+ 3 p.m., and Monday, Nov. 30 =A1=AA Friday, Dec. 4, from noon =A1=AA 2 p.m.=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"_ANNOUNCEMEN=
+TS"></a><b><span style=3D"font-size:14.0pt;font-family:&quot;Trebuchet MS&q=
+uot;,sans-serif;color:black">ANNOUNCEMENTS<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Debate Tryouts<o:p></o:p></span=
+></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Tomorrow there will be debate tryo=
+uts in Mills 102 from 11 a.m. =A1=AA 3 p.m. Every student who makes the tea=
+m will get a Special Projects Odyssey credit. We will
+ be competing soon. E-mail <a href=3D"mailto:midkiffbb@hendrix.edu"><span s=
+tyle=3D"color:#F79646">Brendan Midkiff</span></a> or
+<a href=3D"mailto:darnellcc@hendrix.edu"><span style=3D"color:#F79646">Crys=
+tal Darnell</span></a> for more information about the team and what to expe=
+ct at tryouts. Hope to see you there.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Orientation Peer Leader Applica=
+tions Available<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Orientation Leader is preferred, b=
+ut not required.&nbsp; You can find position descriptions, important dates,=
+ and the application
+<a href=3D"http://www.hendrix.edu/orientation/teamselection"><span style=3D=
+"color:#F79646">online</span></a>. If you have any questions, please e-mail
+<a href=3D"mailto:hale@hendrix.edu"><span style=3D"color:#F79646">hale@hend=
+rix.edu</span></a> or come visit the Student Activities office.&nbsp;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Donations Needed<o:p></o:p></sp=
+an></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">We are in great need of donations =
+for the food baskets arranged through St. Peter=A1=AFs Church that will ass=
+ist our neighbors for Thanksgiving. Please donate money
+ (checks made to Hendrix College or cash, both sent to the Miller Center) o=
+r the following non-perishables for each food basket:</span><span style=3D"=
+font-family:&quot;Courier New&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">2-14.5 oz. cans of green beans<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">2-14.5 oz. cans of yellow corn<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">1-14.5 oz. can of sweet potatoes<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">1-14.5 oz. can cranberry sauce<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">1 large box instant mashed potatoe=
+s<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">2 boxes of pre-seasoned stuffing m=
+ix<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">2 packages instant turkey gravy<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Please take items to the boxes in =
+the dorms or to the miller center (SLTC 133) from Nov. 9 =A1=AA 20. Contact
+<a href=3D"mailto:frenchh@hendrix.edu"><span style=3D"color:#F79646">french=
+h@hendrix.edu</span></a> with any questions.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Opportunities to Participate in=
+ Psychological Research<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Psychology students are collecting=
+ data for their final projects and need Hendrix students to participate. Pl=
+ease contact the below researchers if you want to
+ help out or have any questions. Psychology students who qualify for extra =
+credit should sign-up for these studies through Sona Systems.</span><span s=
+tyle=3D"font-family:&quot;Courier New&quot;">
+</span><span style=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif"><a h=
+ref=3D"https://www.surveymonkey.com/r/Z9SWWFF"><span style=3D"color:#F79646=
+">Influence of College Life on Students' Attitudes and Preferences</span></=
+a></span><span style=3D"font-family:&quot;Courier New&quot;"><o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Judgments of Police Reports (<a hr=
+ef=3D"mailto:LucioCC@hendrix.edu"><span style=3D"color:#F79646">LucioCC@hen=
+drix.edu</span></a> or
+<a href=3D"mailto:MyersKN@hendrix.edu"><span style=3D"color:#F79646">MyersK=
+N@hendrix.edu</span></a>)<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Influencing Judgments of College S=
+tudents (<a href=3D"mailto:CastroKA@hendrix.edu"><span style=3D"color:#F796=
+46">CastroKA@hendrix.edu</span></a> or
+<a href=3D"mailto:CliftonTW@hendrix.edu"><span style=3D"color:#F79646">Clif=
+tonTW@hendrix.edu</span></a>). Problem Solving Task (<a href=3D"mailto:Schw=
+artzKL@hendrix.edu"><span style=3D"color:#F79646">SchwartzKL@hendrix.edu</s=
+pan></a>).<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Spring 2016 Wind Ensemble Audit=
+ions<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">The Hendrix College Wind Ensemble =
+is holding auditions for the spring 2016 semester on November 19, 20, and 2=
+3. If you play a woodwind, brass, or percussion
+ instrument and are looking for a fun group, the Wind Ensemble is for you. =
+For more information, visit the
+<a href=3D"https://www.hendrix.edu/music/music.aspx?id=3D2045"><span style=
+=3D"color:#F79646">HCWE website</span></a> and contact
+<a href=3D"mailto:renshaw@hendrix.edu"><span style=3D"color:#F79646">Dr. Gr=
+etchen Renshaw</span></a> to schedule an audition time.<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">BA Juried Senior Art Exhibition=
+<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">The Baum Gallery of Fine Art is an=
+ educational art museum on the campus of the University of Central Arkansas=
+ in the west wing of McCastlain Hall. (Parking is
+ available behind the College of Business and in front of the Schichtl Stud=
+io Arts buiding.) The museum aims to encourage the appreciation and underst=
+anding of art for learners of all ages, as well as to inspire the creative =
+insight and growth of museum visitors.
+ Regular Baum hours are Monday =A1=AA Friday from 10 a.m. =A1=AA 5 p.m., an=
+d Thursdays until 7 p.m.
+<a href=3D"http://uca.edu/art/baum/"><span style=3D"color:#F79646">Please v=
+isit us online</span></a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Intramurals Santa Claus Classic=
+ Sign Ups<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">It is time for the Santa Claus Cla=
+ssic Indoor Volleyball Tournament benefitting Toys for Tots. Get your teams=
+ together and sign up on the Sunporch today through
+ Tuesday, Nov. 24. If you have any questions email <a href=3D"mailto:bringa=
+rdlh@hendrix.edu">
+<span style=3D"color:#F79646">bringardlh@hendrix.edu</span></a> or <a href=
+=3D"mailto:sandersne@hendrix.edu">
+<span style=3D"color:#F79646">sandersne@hendrix.edu</span></a>.<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Submit your Work to the Aonian<=
+o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Hendrix=A1=AFs student literary an=
+d arts magazine the Aonian is now taking submissions for the 2016 issue. We=
+ accept works in the genres of poetry, fiction, nonfiction,
+ and visual art. There is a limit of five pieces per genre per person. All =
+submissions are accepted electronically via email at
+<a href=3D"mailto:aonian2016@gmail.com"><span style=3D"color:#F79646">aonia=
+n2016@gmail.com</span></a>. The deadline to submit for the fall semester is=
+ December 7.
+<a href=3D"https://hendrixaonian.wordpress.com/submission-guidelines/"><spa=
+n style=3D"color:#F79646">Learn more about submission guidelines</span></a>=
+.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Arkansas Governor=A1=AFs School=
+ Teaching Opportunities<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">AGS is currently accepting applica=
+tions for faculty positions at AGS 2016, June 8 =A8C July 23, in various te=
+aching disciplines.&nbsp; Applications will be accepted
+ through January 4. Visit the <a href=3D"http://www.hendrix.edu/ags/faculty=
+/"><span style=3D"color:#F79646">AGS website</span></a> for more informatio=
+n or contact
+<a href=3D"mailto:ags@hendrix.edu"><span style=3D"color:#F79646">Tim Purkis=
+s, Administrative Manager</span></a>, at 501-450-1279 or
+<a href=3D"mailto:rupert@hendrix.edu"><span style=3D"color:#F79646">Lyle Ru=
+pert, Director</span></a>, at 501-450-1237.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Arkansas Governor=A1=AFs School=
+ Staff Positions<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">AGS is currently accepting applica=
+tions for staff positions at AGS 2016, June 6 =A8C July 23, in Residential =
+Life and the Office.&nbsp; Applications will be accepted
+ through February 22.&nbsp; Visit the <a href=3D"http://www.hendrix.edu/ags=
+/staff/"><span style=3D"color:#F79646">AGS website</span></a> for more info=
+rmation or contact
+<a href=3D"mailto:ags@hendrix.edu"><span style=3D"color:#F79646">Tim Purkis=
+s, Administrative Manager</span></a>, at 501-450-1279, or
+<a href=3D"mailto:rupert@hendrix.edu"><span style=3D"color:#F79646">Lyle Ru=
+pert, Director</span></a>, at 501-450-1237.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Reformed University Fellowship<=
+o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">RUF (arr-yoo-eff) is a Christian m=
+inistry at Hendrix that meets every Monday night from 8 =A1=AA 9 p.m., in t=
+he SLTC kitchen. We read the Bible, talk about faith
+ and life and eat cereal. You're welcome no matter what you believe. To plu=
+g in, text &quot;RUFHDX&quot; to 41411 or email the
+<a href=3D"mailto:bradford.green@ruf.org"><span style=3D"color:#F79646">RUF=
+ Director</span></a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"_MEETINGS"><=
+/a><b><span style=3D"font-size:14.0pt;font-family:&quot;Trebuchet MS&quot;,=
+sans-serif;color:black">MEETINGS<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Anime Club<o:p></o:p></span></b=
+></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Anime Club will be meeting in Mill=
+s A tomorrow at 8 p.m. to continue watching &quot;Death Parade&quot; and &q=
+uot;Toradora!&quot;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Environmental Concerns Committe=
+e Meeting<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Join ECC today at 7 p.m. in SLTC 1=
+06 to talk about environmental concerns on campus.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Phi Beta Lambda Informational M=
+eeting<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Come by SLTC 105 today at 4:10 p.m=
+. to learn about PBL and how you can get involved. PBL is a nationally reco=
+gnized organization dedicated to promoting professionalism
+ through conferences, community events, and competitions. Students are give=
+n a wide range of opportunities to build professional networks, develop ski=
+lls critical to any career, and earn scholarships while doing so. Check out
+<a href=3D"http://www.fbla-pbl.org/"><span style=3D"color:#F79646">the webs=
+ite</span></a> to learn more about getting involved at the national level.<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"_MENU"></a><=
+b><span style=3D"font-size:14.0pt;font-family:&quot;Trebuchet MS&quot;,sans=
+-serif;color:black">MENU<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span lang=3D"EN" st=
+yle=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif">Lunch<o:p></o:p></s=
+pan></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span lang=3D"EN" st=
+yle=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></=
+span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Italian Spaghetti, Bing Bang Shrim=
+p, Cajun Saut=A8=A6 (Vegan), Veggie Spaghetti (Vegan), French Fries<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Dinner<o:p></o:p></span></b></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Beef Stew, Chicken Crepes, Spinach=
+ &amp; Cheese Quinoa Casserole (Lacto Vegetarian), Mushroom Pasta (Vegan)<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN" style=3D"font-family:&quot;Treb=
+uchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span lang=3D"EN" st=
+yle=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif">Vegetables<o:p></o:=
+p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span lang=3D"EN" style=
+=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-siz=
+e:12.0pt;font-family:&quot;Trebuchet MS&quot;,sans-serif">Corn,</span><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">
+</span><span style=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif">Gree=
+n Beans, Broccoli, Black Beans, Mediterranean Blend, Sugar Snap Peas, Porto=
+bello Stroganoff, Black-eyed Peas</span><span style=3D"font-size:12.0pt;fon=
+t-family:&quot;Arial&quot;,sans-serif;color:#454545"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Soups<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Chicken Noodle, Cream of Corn, Hea=
+rty Beef Stew, Black Bean (Vegan)<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Trebuchet MS&quo=
+t;,sans-serif"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Fresh Salad Selections<o:p></o:=
+p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Wild Rice W/Celery (Vegan), Hummus=
+ (Vegan/Vegetarian)<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></b></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">World=A1=AFs Fare<o:p></o:p></s=
+pan></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Shrimp Gumbo, Dirty Rice, Chicken =
+Jambalaya<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">Featured Pizza of the Day<o:p><=
+/o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Cheesy Stix<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN" style=3D"font-family:&quot;Trebuch=
+et MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"_LOST_&amp;_=
+FOUND"></a><b><span style=3D"font-size:14.0pt;font-family:&quot;Trebuchet M=
+S&quot;,sans-serif;color:black">LOST &amp; FOUND<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+size:14.0pt;font-family:&quot;Trebuchet MS&quot;,sans-serif;color:black"><o=
+:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">If you have lost or found somethin=
+g, stop by the Lost and Found at the Information Desk on the first floor of=
+ the SLTC.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+family:&quot;Trebuchet MS&quot;,sans-serif">A pink poly folder with two poc=
+kets (with a lot of statistics class's PowerPoint slides/notes/homework ins=
+ide), and an apple earphone<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Trebuchet MS&quot;,sans-serif">Lost them in OTC, Monday, Nov. 16.=
+ The pink poly folder (as well as everything inside) is super important for=
+ me. Please either return it to the Lost and Found
+ at the Information Desk on the first floor of the SLTC, or give it back to=
+ me if you have found it. Contact me at
+<a href=3D"mailto:JiaRR@hendrix.edu"><span style=3D"color:#F79646">JiaRR@he=
+ndrix.edu</span></a> if you have any idea about that pink folder, or send m=
+essages to (501)-339-8867. At least $10 cash, and up to $50 (depends on my =
+bank account balance) will be provided
+ for the person who give it back to me, and no question will be asked. Than=
+k you so much.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"_SUBMISSIONS=
+"></a><b><span style=3D"font-size:14.0pt;font-family:&quot;Trebuchet MS&quo=
+t;,sans-serif;color:black">SUBMISSIONS<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Verdana&quot;,sans-serif">Hendrix Today is brought to you by the =
+Office of Marketing Communications. Submit Hendrix Today items
+</span><span style=3D"font-family:&quot;Trebuchet MS&quot;,sans-serif"><a h=
+ref=3D"https://www.hendrix.edu/hendrixtoday"><span style=3D"color:#F79646">=
+here</span></a></span><span style=3D"font-family:&quot;Verdana&quot;,sans-s=
+erif">.
+<span style=3D"color:#F79646">&nbsp;</span><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_002_CO2PR0501MB88562A75A41261E0838562A861B0CO2PR0501MB885na_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=9430;
+	creation-date="Thu, 19 Nov 2015 15:42:29 GMT";
+	modification-date="Thu, 19 Nov 2015 15:42:29 GMT"
+Content-ID: <image001.jpg@01D122AE.9A4879F0>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAB0AokDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKym8T6Cjsjaz
+YKynBBuFyD+dN/4Snw//ANBvT/8AwJT/ABoA16KyP+Ep8P8A/Qb0/wD8CU/xo/4Snw//ANBvT/8A
+wJT/ABoA16KyP+Eq8P8A/Qb0/wD8CU/xrVR1kRXRgyMMqwOQRQA6iiigAooooAKKKKACiiigAooo
+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
+LsWPzVkIIzu3jbtAx6HNei0UAFct4Kh1LTrCTTL/AEua3Ec00i3BkRkkDSswwFJPQ9xXU0UAc74y
+sr290i2FhatdTQX0FwYldVLKjgnBYgZxW3ZTy3NpHNPayWsjD5oZGUsv1Kkj8jU9FAHF3OnapB8R
+JdTjsb+WzmigjD21yiR5UsG8xSQWA3Z4rs3XcjLkjIxkdqWigDgfC+l+JNJvNF014ZodPsIporth
+JGYZ+pjdR9/cScnOK6/XLaW80DUbWBd801tJGi5xlipAFX6KAOb8E299Z6FHZ39pf28kKouby4SY
+sdoB2lScKMdDXSUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQBz994ts7C9ltZIJi8ZwSAMGq/wDwnNh/z73H5D/GuX8Sf8jDef7/APQVlV85VzLE
+RqSins30PpKOWYeVOMmt0up3v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFZ/2pie6+40/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3noln4vs729htUgmDSttBIGBXQ15
+Z4f/AORgsf8ArqP5GvU69fLsRUrwcp9GeRmOGp0KijT6oKKKK9A845HxzLJEll5cjplnztYjPArj
+vtdz/wA/M3/fw0UV8vmUmsTLXt+R9VlsU8NHTv8AmH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UVw80u5
+3csewfa7n/n5m/7+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4c
+sewfa7n/AJ+Zv+/ho+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B
+9ruf+fmb/v4aPtdz/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9r
+uf8An5m/7+Gj7Xc/8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5
++Zv+/ho+13P/AD8zf9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCf
+mb/v4aPtdz/z8zf9/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+
+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4csewfa7n/AJ+Zv+/h
+o+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B9ruf+fmb/v4aPtdz
+/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9ruf8An5m/7+Gj7Xc/
+8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5+Zv+/ho+13P/AD8z
+f9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCfmb/v4aPtdz/z8zf9
+/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8APzN/38NF
+FHNLuHLHsRMzOxZmLMepJyTSUUVJQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFAGl4f/AORgsf8ArqP5GvU6KK+hyf8AhS9f0Pnc5/ix9P1P/9k=
+
+--_002_CO2PR0501MB88562A75A41261E0838562A861B0CO2PR0501MB885na_--
