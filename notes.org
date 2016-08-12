@@ -1,0 +1,6 @@
+HdxToday.hs program expects an html file name on the commandline, and
+currently just parses out the items and prints their titles.
+
+Next step:
+  * make a file to record item titles already seen and the most recent
+    date seen.
