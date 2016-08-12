@@ -4,3 +4,7 @@ currently just parses out the items and prints their titles.
 Next step:
   * make a file to record item titles already seen and the most recent
     date seen.
+  * partition by seen and unseen.
+  * update list of seen.
+  * Number unseen
+  * Make interface for displaying item text.
