@@ -7,17 +7,22 @@ import           Text.HTML.TagSoup
 import           Text.HTML.TagSoup.Match
 import           Text.StringLike
 
+import           Control.Monad                (when)
 import qualified Data.ByteString              as BS
-import           Data.List                    (intercalate)
+import           Data.List                    (find, intercalate)
 import           Data.Time
 import           Data.Time.Calendar
+import           System.IO                    (hFlush, stdout)
+import           Text.Printf                  (printf)
+import           Text.Read                    (readMaybe)
 
 import           System.Environment
 
 data Item = Item { itemTitle :: String, itemDescription :: String }
-  deriving Show
+  deriving (Show, Read)
 
 data Seen = Seen { seenTitle :: String, lastSeen :: Day }
+  deriving (Show, Read)
 
 mkItem :: [BS.ByteString] -> Item
 mkItem (title:rest) =
@@ -67,6 +72,51 @@ main = do
     []     -> error "no file name"  -- read from stdin
     (fn:_) -> do
       (items, mday) <- getItems fn
-      print mday
-      putStr . unlines . map itemTitle $ items
+      case mday of
+        Nothing -> putStrLn "Can't parse date, XXX use today?"
+        Just day -> do
+          seenDat <- readFile "seen.dat"
+          let seen :: [Seen]
+              seen = read seenDat
+              newItems = filter (isNew day seen) items
+          browseItems newItems
+          let seen' = updateSeen day items seen
+          writeFile "seen.dat" (show seen')
 
+isNew :: Day -> [Seen] -> Item -> Bool
+isNew day seen item
+  = case find ((== itemTitle item) . seenTitle) seen of
+      Nothing -> True
+      Just s  -> diffDays day (lastSeen s) >= 7
+
+updateSeen :: Day -> [Item] -> [Seen] -> [Seen]
+updateSeen day items seen = map updateOne seen ++ newlySeen
+  where
+    updateOne s@(Seen t l)
+      | any ((==t) . itemTitle) items = Seen t day
+      | otherwise                     = s
+    newlySeen
+      = map mkSeen
+      $ filter ((`notElem` (map seenTitle seen)) . itemTitle) items
+    mkSeen (Item t _) = Seen t day
+
+browseItems :: [Item] -> IO ()
+browseItems items = go
+  where
+    go = printItems >> cmdLoop
+    cmdLoop = do
+      putStr "> "
+      hFlush stdout
+      input <- getLine
+      when (input /= "q") $ do
+        case (readMaybe input :: Maybe Int) of
+          Just n -> when (n < length items)
+                         (printItem (items !! n) >> cmdLoop)
+          Nothing -> go
+    printItems
+      = putStr . unlines
+      . map (uncurry (printf "(%02d) %s"))
+      . zip [0 :: Int ..] . map itemTitle
+      $ items
+    printItem (Item t d)
+      = putStrLn t >> putStrLn d

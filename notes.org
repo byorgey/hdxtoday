@@ -1,10 +1,11 @@
 HdxToday.hs program expects an html file name on the commandline, and
 currently just parses out the items and prints their titles.
 
-Next step:
-  * make a file to record item titles already seen and the most recent
-    date seen.
-  * partition by seen and unseen.
-  * update list of seen.
-  * Number unseen
-  * Make interface for displaying item text.
+Next steps:
+  + [X] make a file to record item titles already seen and the most recent
+        date seen.
+  + [X] partition by seen and unseen.
+  + [X] update list of seen.
+  + [X] Number unseen
+  + [X] Make interface for displaying item text.
+  + [ ] Get it working with 2016-08-23.html (updated format?)
