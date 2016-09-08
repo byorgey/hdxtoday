@@ -9,3 +9,7 @@ Next steps:
   + [X] Number unseen
   + [X] Make interface for displaying item text.
   + [ ] Get it working with 2016-08-23.html (updated format?)
+
+    Try
+    http://hackage.haskell.org/package/mime-0.4.0.2/docs/Codec-MIME-Parse.html
+    for reading entire message txt?
