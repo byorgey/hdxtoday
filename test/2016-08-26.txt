@@ -1,0 +1,1810 @@
+Return-Path: <yorgey@hendrix.edu>
+X-Original-To: cases@byorgey.fogbugz.com
+Delivered-To: aesoprock@localhost
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com (mail-bl2nam02on0136.outbound.protection.outlook.com [104.47.38.136])
+	by mxny1.fogcreek.com (Postfix) with ESMTPS id C74B095B97
+	for <cases@byorgey.fogbugz.com>; Fri, 26 Aug 2016 18:10:39 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=Hendrix.onmicrosoft.com; s=selector1-hendrix-edu;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=mwrdV6oZBaSAao8tUK6RGzt8lMzbav41mFJTKK/+tYg=;
+ b=NlovbSlgjh+kkbktz5tNW1buUtUoSdSicNcCI9AOsgeuoNuUKvP2R1sqFxyYwSRJ5/UckdmaPpLUATkcq28Zu9XAYfkt1je4qhxD7EGTiUAf04xvJF9SS3Rcx0Y4jR7cMZUUKqvu6U3BIbFw9WwPt7gdWJfsALmlfvOeUTBOnlQ=
+Authentication-Results: spf=none (sender IP is )
+ smtp.mailfrom=yorgey@hendrix.edu; 
+Received: from mail-oi0-f43.google.com (209.85.218.43) by
+ MWHPR05MB2800.namprd05.prod.outlook.com (10.168.244.150) with Microsoft SMTP
+ Server (version=TLS1_0, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA_P384) id
+ 15.1.599.2; Fri, 26 Aug 2016 22:10:36 +0000
+Received: by mail-oi0-f43.google.com with SMTP id 188so38591656oif.2
+        for <cases@byorgey.fogbugz.com>; Fri, 26 Aug 2016 15:10:37 -0700 (PDT)
+X-Gm-Message-State: AE9vXwNq2vw+xdTasj43FjMfrKR8vVwSTEtTMztrICMK6Zt+asas3354Fijb4e9oKjudFeRwJtG0lN+PSUO95A==
+X-Received: by 10.202.242.214 with SMTP id q205mr4482210oih.60.1472249433458;
+ Fri, 26 Aug 2016 15:10:33 -0700 (PDT)
+MIME-Version: 1.0
+References: <CO2PR0501MB885149A45935A6CCB83067186EC0@CO2PR0501MB885.namprd05.prod.outlook.com>
+In-Reply-To: <CO2PR0501MB885149A45935A6CCB83067186EC0@CO2PR0501MB885.namprd05.prod.outlook.com>
+From: Brent Yorgey <yorgey@hendrix.edu>
+Date: Fri, 26 Aug 2016 22:10:21 +0000
+X-Gmail-Original-Message-ID: <CAH0njdtn6UgAhzCHRfALzVys-iSxv066F6GBxxgTk4W46hoQgw@mail.gmail.com>
+Message-ID: <CAH0njdtn6UgAhzCHRfALzVys-iSxv066F6GBxxgTk4W46hoQgw@mail.gmail.com>
+Subject: Fwd: Hendrix Today: Friday, Aug. 26
+To: cases <cases@byorgey.fogbugz.com>
+Content-Type: multipart/related; boundary="94eb2c09149c80af29053b00c85c"
+X-Originating-IP: [209.85.218.43]
+X-ClientProxiedBy: BN6PR03CA0063.namprd03.prod.outlook.com (10.173.137.25) To
+ MWHPR05MB2800.namprd05.prod.outlook.com (10.168.244.150)
+X-MS-Office365-Filtering-Correlation-Id: de058107-1ded-44d0-8b02-08d3cdfdce94
+X-Microsoft-Exchange-Diagnostics:
+	1;MWHPR05MB2800;2:/z+UjYN2zIXLmzAGHZpHYQL/pDzRg8folcCwXPqoYmg2j/HKB+nZyJTo8hnbocqGGlrvJaXOmkiN6ui6vhrcaoGfgf0SFD4LrBfx4c2dBi8h3OKg7IlvO497EPyirMvkRFVWiLJjhqcOUVHp86NQMvIKfhrdzquRu1oIslXGNBik5U4yMJd0fUtscCErKyy0;3:Gsg4JIwNTncM+NaAZW/6fA35I11klaU+rab7CeAo4ecFA4glJvXkDYv6k4hUFSezg9sglQ1fYoHSieuaBMszb90ohue8CkaokrTwt6c5G80QZqAXo4HIUjiYAGFvjMd/
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:MWHPR05MB2800;
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;MWHPR05MB2800;25:qHE5ryN50PVWq7YfOS8U1lupnCouqeZPHm7dOpqbz?=
+ =?us-ascii?Q?BlpPREhSKk9CEkDATAGGbMhAFS35dVHLj0FbceS1Cnrk9kjQpdMKUcMAfecl?=
+ =?us-ascii?Q?1QQlgkzDkBVI7McKNPQkTB0t0sh9GCIDC0OtzqkHvVcsaNDe5doq7UvkCjHJ?=
+ =?us-ascii?Q?jmTG0AtwhfhoNVQY62Vl3QiyXH6TedVGmLLfHD0LUegUcO8JF7IpUYOqYm6U?=
+ =?us-ascii?Q?JtKSg4hdgR7xpvH/EM34x6Cm3/qeyBSO3O0UnjvVF8PGd0h32lS6aqz+vVQf?=
+ =?us-ascii?Q?dU7C9G9kVsSc/Cuv6xdOSRXC8Ik/G6xA03ctMEoogmwxsNFXEnJz44ZJHV6f?=
+ =?us-ascii?Q?sdLFwwMM3lJ9oGrHB+IP+EAFUUi/EHsMteDkl7IPyESjeKRDiECzFJ/EwnuP?=
+ =?us-ascii?Q?XyNw0pbfVauHFEVB0JW3/VcdNkusH291Zub80OpcZIaVixbm/6/lt4U43Bcn?=
+ =?us-ascii?Q?Pjyy1QXq/rJ8Xsall1P3ZXY/Rs0CqPX1RHLdfl3+tgD+hNML+pL97F/TszLd?=
+ =?us-ascii?Q?sU2Crn7U6XQXvCWgJxOLaPLxsy0bzZnZB84fX/bDoNvIWP9rn4Zr363SeAUc?=
+ =?us-ascii?Q?9VGmHqmasLoizpcm9z9ngm3yTor0Qb7DWv+6gl+rZ79zcKh2ZV4BUvUURFMZ?=
+ =?us-ascii?Q?LZcdhghvsjYl4Dq54QzyQULtv8RyzdXZ8z+NRaIYIgCxHODllEzpwTVBT7iK?=
+ =?us-ascii?Q?3HPUt/Wd0wDQi/486PdRkdItCFHjteTT/RFeDtLO5Mm+KeMcVypLvujGk7Wd?=
+ =?us-ascii?Q?1e8n17gk2F/p3IJA5Ra8gj+TXNlnrN/0D7YNgVngL8mi8ekCCW1T9KGfPCjj?=
+ =?us-ascii?Q?AyEnJFMyyGf40ZNBIDU/cz+jkGm/YXlBZ1Booc0YgMt2XBfo+iELo7oWZ8W0?=
+ =?us-ascii?Q?x5+5FdMvtpX+TABupGVg7a3z8tNMWuOUkODv8lpFJQS7rCX1GsQ2ynuY34oB?=
+ =?us-ascii?Q?MfbCIUFr5J8QDiE9y3uBlnltn75hZl9H0Vq6IB+acjtxe2w4alWKPbSoWQXJ?=
+ =?us-ascii?Q?eiFeL+njizx4JFsdLsnb9MMKk1OGu9noAaLj3EaWNJHrCXWio5YRdmJwWkbb?=
+ =?us-ascii?Q?0oyqnMpgTw3dPfYjfpy9w+94rdEb74rWc+78HaCnnhnkdgDO+Qp6U7A4XG4L?=
+ =?us-ascii?Q?fWc4BFnsQB4XUP/WJFSHxmENkHsNPp4Ver0c17i59fFhBAuVi/AMA=3D=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;MWHPR05MB2800;31:dfXb9JRFUJ2a5mLfgLliKSqEZGyhIxj8j4tqRPjCZ3giZzi1ClLE1vEGYhG4U9cd5Zo2Qi/QOWyMSmGb4nPunbx1HgIt89E8lyMrJZzRdocOx22GtOIyz9KNYHhrFi4Cm2Rjc0eSayCK24i8N6+Q0V/9cWCSiqMUPUoEVpDHTFPxayIuRXa9Pb9a10vD2LviYrKb/1TbTFoyW2P+GGpa41Dp8h7GXQh8/Yek7cH+ATzW1A88TOvDBedx0lYDGl2f;20:+Hl8YXLJInveLGhSB7lXB/VCamMf+UASNK3zPT/UnuZUZrcIIJmANhAGP+yIqdDixjEiWhgKThTDd5y4nX/EpcV29zWa/QpXr83rXXOzSYGBoMdGT7pwryodQD7CcS+5MV3uvzqnnQPJGlg/XwZMOIjKObwRZKq/XsUGG1wjhfwDG4UqPYf8lMi/Pohi6B785VaG3gYSPnI1kxox/uX/jqAa0YTcjz32vK57B7n2F0lX54zJqncLBsRrBz+hP2Kxqc9N2Xrm36Eu3VZ0qJ8nBmuBvUiZR2oUFODBA+waaTzSj8mMxpmJmE6dfuXU4KfdCn2Ct+w5IfwCB1beeBYf7tgRQA2NDN2RXZHrTsF0tltKRIwoSBjR8gdwlomqlf/wkSAS3gXtq95vwvXy4Re5bgfzswMQFQCn9WovYzNQ3MbM4kRTFQuZSksRuAb4mk3+SaLIMncPv/EteypFsX4St8N4TPCsbhduetyWW8zp/6LvswGzgocAKmgE26h94mf2
+X-Microsoft-Antispam-PRVS:
+	<MWHPR05MB2800224DD0D57939FD63E605DBEC0@MWHPR05MB2800.namprd05.prod.outlook.com>
+X-Exchange-Antispam-Report-Test:
+	UriScan:(244540007438412)(278428928389397)(209352067349851)(12901024606220)(21532816269658)(231250463719595)(5213294742642);
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(102415321)(6040176)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:MWHPR05MB2800;BCL:0;PCL:0;RULEID:;SRVR:MWHPR05MB2800;
+X-Microsoft-Exchange-Diagnostics:
+	1;MWHPR05MB2800;4:tACdhXNu6YNp30LkBNi9dZfcIqYYnafCXAhnK1JKKqy1Q3BlFGszQALj6+TbB2ndr/Csa4Nu3MrBHcZIacnluxgKGv5x5ag0JYryyRLKOz8vHvugmkUp+bP5GOWlREkKZkk7QT1voD70OSgeo8NVFYDbuETkSdPx4AX+Szu1QJRVfopBJaOqlFZSqrw79lQUuv7T71Xcjw3HFWt6PeG8SknkjStZ/T8/naRifOPuvhc/OvYYWGD2ZIYYdMku8PcUeZJIscHIXo5OpEmdJUsJFmvF5xJd/rNOfy8u4XklUEP9axI2qBvFepSF3ojgzhRoxRSBdyg6P/uKi973Uh82cm15fQKfH5ODjcDjXz8fG9p7tuICkySqrJFtbpXG+L7djNGmWEFWU5FF7hbgokDVxNvppuU05G90kyjCz9pirIomYbiXxAp61FYXMoc6VY6fuyCBSS/W6F0U1jsNAjlgnNCoe8JPMS3LZehkCmw/JgZE/bPnSA0A6Ct6nhWCTnknaAyWVyaRl1V+GTpwD0SCCV+HrS2QyyPc4E0TIfCzFPUDGSNI+2/sZtWRaKCiy8k7DdVzOPMI8AENVTpCDtY7VZ7s6+txenLM86x9/jRI8nt5LLwnicCIgRSXLTMgu46Z8nP7ETXBGeN0OI9DJ74Tig==
+X-Forefront-PRVS: 00462943DE
+X-Forefront-Antispam-Report:
+	SFV:NSPM;SFS:(10019020)(4630300001)(7916002)(199003)(52254002)(53824002)(46034005)(2473001)(111735001)(35754003)(189002)(30844003)(377454003)(50854003)(22974007)(42186005)(586003)(3846002)(6116002)(105586002)(17760045003)(15974865002)(19580405001)(59536001)(61266001)(2906002)(68736007)(106356001)(90282001)(18206015028)(66066001)(88552002)(325944008)(9686002)(450100001)(512874002)(89122001)(101416001)(69596002)(55446002)(19627595001)(19580395003)(97736004)(50986999)(5660300001)(122856001)(93516999)(19617315012)(86362001)(76176999)(54356999)(63696999)(8576002)(61726006)(2950100001)(84326002)(7846002)(81156014)(110136002)(8676002)(305945005)(81166006)(189998001)(75432002)(92566002)(7736002)(107886002)(14971765001)(7906003)(5890100001)(15975445007)(7099028)(95394003)(504864004)(55874002)(55456009)(579004)(562774006);DIR:OUT;SFP:1102;SCL:1;SRVR:MWHPR05MB2800;H:mail-oi0-f43.google.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+Received-SPF: None (protection.outlook.com: hendrix.edu does not designate
+ permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;MWHPR05MB2800;23:hyAmJrH03Gs2afXRMrCyet7YsK3nzvxztPyHY8jK6?=
+ =?us-ascii?Q?4Z3NiIPs7MlSsYTfBssagz3UQB+EESAwZRmbe5Bi2YbbSKwS1ktGO5eqkhzv?=
+ =?us-ascii?Q?UlXhAx7IXB90TqaWudaC+JWoBCBQELCo64nykPdfZOcVazuO8o3F8dx/gTDc?=
+ =?us-ascii?Q?1xPqSVpPe3CyOrox5nefuHXUpkRqvxLnuRgoSdv/D/c2/HymLO4zRKmVvsjg?=
+ =?us-ascii?Q?dOu19aTouopb3vvpjT4/V0i05owz6hWzQiiu1UUne3jR0ee6eS3D0eRoM+C3?=
+ =?us-ascii?Q?06R0/EQ5Hrq4OoS0g+4cJ/TMPVUGH+EEOhBvLh1u3vXG6bjW+fu+nX1zjjqk?=
+ =?us-ascii?Q?Xle80ZXwmksgxnEIzSOXfVSRyMseOxBRdcPVrPZcBFRGesqfOXFdR60dgxXq?=
+ =?us-ascii?Q?VBpmbCxqOTHrEVesoheGQS6NdqqZJocpOe0+YKoWMXQEsMPcWlAttbMhrqSb?=
+ =?us-ascii?Q?O1xNAYJ+QU0gld9IEnQi+2S8+3beBlIJ3G4RwMjY3N0iD0S2Gl9GUDwVr/db?=
+ =?us-ascii?Q?app8IX/zkKkwUpMfgGlApmgGbKIUJAQT6JS836gBCg9niUYsMegmvvva9BAv?=
+ =?us-ascii?Q?3jQLZ60BZGRVMvDRmv20lbYEuS7hIU2QZIP3NGtm8aNfqbQs1v2oYo3SxSWM?=
+ =?us-ascii?Q?liXebn5iICvvLZhtO9o+9NgvR34WLnyaHqTw+9g1s4SWWw7O53t6F8F28nLJ?=
+ =?us-ascii?Q?+UTF9W1oVt79nxybhZ4YRYu20YsN2ZYgHqEcdDV7hVz61Krv9nteV0qhsKyX?=
+ =?us-ascii?Q?0uWHcnMn93VBgnX1oCERI3Ky4DKj4e7He0EM4OIzDc7r6aExXl9ixNYXnvkH?=
+ =?us-ascii?Q?kZivQHVcUaqiTpSlM8lRtOMN0M4Ccdw+43dqcfeyyde1qKgXOKZEzy1YiHNm?=
+ =?us-ascii?Q?vHPxSH8RBXmaYuNvq+H4gJk8okppvYvMCQ8jKwYbZukNA3S9R3khWq4TG2T4?=
+ =?us-ascii?Q?Bjpx1/ZhAIrOqDseJZ7RU3ilC9GknKOfNKecM0dxESWFW3ZIT4eous0A52lu?=
+ =?us-ascii?Q?BhsAFVj/5T0OaWt5Ws53KH1OMieVo/9geUm1fzYVRQaIQoD82m015c8foOo5?=
+ =?us-ascii?Q?hhWrc6+F3aOLa4Rx137kGcLpKjag5zkGmmH7AC4UlnMy1vTaFCwOwEtZ1Btn?=
+ =?us-ascii?Q?jUwWbvo7SGB2SpaznS5FZkP+RVep0y1aBomcXlYB7e/wtk4JJusE/oTWIKoD?=
+ =?us-ascii?Q?w6P9d3fgr6ShBYRpCPlt07XuyhpBI4tqFhQjca0AkWVNd4nBI/ZDIj8djk68?=
+ =?us-ascii?Q?uEVPJ0qHIOea+XOtbWvZdnT5DwU1pQKt3yOPPyUQ2KISBK0eeoB6pxlWdgyX?=
+ =?us-ascii?Q?4QYe/4UoG3tvIKeiXXl3r5+g0Bd2nA5IXc1nArLKjfgKwPQ3tpM4JM5Gj+PT?=
+ =?us-ascii?Q?FXXHBvDwg9nbQs9vmLh7g54Boyc39+2Tb14piUo8hOEnUH4Fg6TQ/u1lKOeT?=
+ =?us-ascii?Q?I5N2QRiIcJ0hxL+esi8aCN9FWkXjfndTDvZFa+7QeiC8Jf4NMqYwINFGqWfX?=
+ =?us-ascii?Q?bxUwhdA0UBezc2/37bzRGZp5IvAyYSwptI2fc7isO5yoLOZQpVMuwglrMSDr?=
+ =?us-ascii?Q?TBVSnEzbeffamfD0qUSiMuLjEMQesHSZL8s9CtHkjstX0EY7skvaoVJxnQOA?=
+ =?us-ascii?Q?ruXTg9B+EmTATfXMXKw9F6TLoTvdSn+B55fCYGzFECefmIme6aqZi7oB0gz/?=
+ =?us-ascii?Q?IZf7moAtQU7KpbDO79nv1odRnoC5p3i99UJUss5v43q//W37uxO/kRrfbfag?=
+ =?us-ascii?Q?vUQpzp+yz08rmdgd9nPgUAEv0ZHbgZSD93PGUMzDLGdmnfe9vKMp4pTxPhsG?=
+ =?us-ascii?Q?2FtA9bp1/RTbQJrnP45XBaZboQlRcf/6uxryfQaohPE1wd1IeAz1FQ=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;MWHPR05MB2800;6:MECakE+UTRSok2I2H2JPb2YzzPs29i4VMWLS8mAQQ5govbB5Ty/ADxyjm+rdybXTsmfIjuEIRnyhwA0apNsn6plKoSygRlwyC8j6BQAdWdbzo4gJOXHuM9v9KW7V7nBGGknk8ElcienMHpJDDIghCAz/WW82dmpBZBdLH76KziTJZ9cVmY2h1GST+Qh24CKTTJOnnIi2N+GZWxyDdMn4F/nDu7tX2wJ8nMcvMsJXiPj9BglGvfpe3L8CMEbCGeKksFaZwkZYQyDXmaWAyAKsj3uMcqYdhyvh+hEBb3MzeuQ=;5:yHEh9Y+i73UX59IibZjT2LkUkwnD9RTAZNoMGJp8/9K0i2Bjbg0QuRX75k1I8F/l/DDZZlJitXMdkoBarzBB929Vwb+wR4eX9GfC+wDDX+Q5IauahP6mUR8mBseLuiPafzgNt/UE4/u9aeAC53Vq7A==;24:oP7YELL8AnLLcWrozZC/DH9YVkPpPZxbVBAakobR3SFmPXjB3LfPqrgROrf4j8gHbVdBe0xp+McmYNaePSlJ9OPIFpf/VmFW6ycNSiTBpJ0=;7:sLBmF966MzS9TghPBkrsUnkyDZB1GeiEk0Uz5s1mHJZU3vkXVcOE/+2WfB0zQzbh+h0FR6jcPrDEDw+BUhdNmujcwliyrq1z0wgwbA95eCbpdiuI2PR9zhMYEgpYqSHiE7p3eAboT2QVpF/oBrGMebD7GVXhjAxAasRgl/z59pF52JSaEEiRwEA24PJy2AXIWS7aMhYfCtcXw1dS4Y4GjWMARQfLdn+G3Z8f2yQPs7p1OEiMrc13be+C6xP7zyJ3
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: hendrix.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Aug 2016 22:10:36.5613 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MWHPR05MB2800
+X-EsetId: 6843C73D9B7352153F039D
+
+--94eb2c09149c80af29053b00c85c
+Content-Type: multipart/alternative; boundary="94eb2c09149c80af25053b00c85b"
+
+--94eb2c09149c80af25053b00c85b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ---------
+From: Communications <prstu2@hendrix.edu>
+Date: 10:37am, Fri, Aug 26, 2016
+Subject: Hendrix Today: Friday, Aug. 26
+To: Hendrix Today <HToday@hendrix.edu>
+
+
+
+
+EVENTS <#m_-3200956681613724546__EVENTS> *|* ANNOUNCEMENTS
+<#m_-3200956681613724546__ANNOUNCEMENTS> *|* MEETINGS
+<#m_-3200956681613724546__MEETINGS> | MENU <#m_-3200956681613724546__MENU>
+*|* LOST & FOUND <#m_-3200956681613724546__LOST_&_FOUND> *|* SUBMISSIONS
+<https://www.hendrix.edu/hendrixtoday>
+
+
+
+
+
+Friday, August 26, 2016
+
+
+
+
+
+*EVENTS*
+  Welcome Week Events
+
+
+
+=C2=B7      Friday, Aug. 26
+
+=C2=B7         Student Involvement Fair: 11 a.m. =E2=80=94 2 p.m. in Worsha=
+m
+
+=C2=B7         Getting to Know Hendrix=E2=80=99s Natural State: 3 p.m. =E2=
+=80=94 5 p.m. at DW
+(Fountain Side)
+
+=C2=B7         Martin Hall Cookout: 5 p.m. at Martin Breezeway
+
+=C2=B7         Open Shirttails Practice: 10 p.m. =E2=80=94 11 p.m., locatio=
+n is to be
+determined
+
+
+
+=C2=B7      Saturday, Aug. 27
+
+=C2=B7         Men=E2=80=99s Teasers: 4:30 p.m. at the Residence Halls Pati=
+o
+
+=C2=B7         Women=E2=80=99s Teasers: 6 p.m. at the Residence Halls Patio
+
+=C2=B7         Shirttails Competition: 7 p.m. at the Brick Pit
+
+=C2=B7         KHDX Shirttails After Party: 9 p.m. =E2=80=94 1 a.m. at the =
+Brick Pit
+
+=C2=B7         SOAR Alternative Event: 9 p.m. =E2=80=94 midnight in Campbel=
+l
+
+
+German Coffee Hour
+
+
+
+German Club invites anyone who speaks even a little German to stop by our
+Kaffeestunde this and every Friday from 4 p.m. =E2=80=94 5 p.m.  We get tog=
+ether at
+Panera Bread in the Village to unwind from the week and chat informally auf
+Deutsch: hope you can join us! For further information, contact Dr. Wayne
+Oudekerk, oudekerk@hendrix.edu.
+  Shirt-Deco with SAOR
+
+
+
+Join us for t-shirt decorating, pizza, and drinks this Saturday, Aug. 27,
+in Campbell Dining Hall between 8 p.m. and 11 p.m.
+
+Get Your Wristbands for Shirttails After Party
+
+
+
+KHDX will host the Shirttails After Party in Worsham from 9 p.m. =E2=80=94 =
+1 a.m.
+this Saturday featuring DJ Doug Kramer. You can get student and guest
+wristbands ($5) in the Burrow today from 11 a.m. =E2=80=94 1 p.m. or from 5=
+ p.m. =E2=80=94
+7 p.m., and Saturday from 11 a.m. =E2=80=94 1 a.m. Wristbands are necessary=
+ for
+entry.
+
+Worship Service in Greene Chapel
+
+
+
+Join the Chaplain=E2=80=99s Office for weekly interdenominational worship i=
+n Greene
+Chapel starting this Sunday, Aug. 28, at 7 p.m. =E2=80=94 8 p.m. The sermon=
+ series
+is =E2=80=9CFaith and Film,=E2=80=9D and this Sunday, Rev. J.J. Whitney wil=
+l be preaching
+on "The Perks of Being a Wallflower".  For more information, contact Rev.
+Whitney at whitney@hendrix.edu.
+
+Compline at Hendrix
+
+
+
+Stop by Greene Chapel on Sundays at 9 p.m. for Compline, a candlelit
+service of sung evening prayers led by a small choir of students. This
+week, the choir will sing "If ye love me" by Thomas Tallis and "Nunc
+Dimittis" by Christopher Tye.
+
+Hendrix Choir Open Rehearsal
+
+
+
+Come join your friends in the Hendrix Choir for a "y'all come sing!"
+afternoon of music and jovial positivity on Monday, Aug. 29, at 4:10 p.m. =
+=E2=80=94
+5:30 p.m. No previous experience is necessary. Interested in auditioning
+for the choir? Come check it out! Have a friend in the group and want to
+see why they're busy after 4 p.m.? Here's your chance! This is a great way
+to experience choral music if you've never tried it before. Afterwards,
+join us for the Music Department Mixer! Email Dr. Morgan
+<morgana@hendrix.edu> with questions.
+
+Music Department Mixer
+
+
+
+Join fellow students and faculty from the Music Department for a social
+gathering on Monday, Aug. 29, at 5:30 p.m. in the Trieschmann Gallery,
+complete with pizza and refreshments! This is a great way to learn more
+about our ensembles, music classes, lessons, and to meet fellow students
+and faculty. All are welcome!
+
+Small Groups
+
+
+
+Interested in exploring your faith in a small group setting? Looking for a
+Bible study to join on campus? Want fellowship and accountability with
+others, both old faces and new?  Small groups may be for you contact Beth
+Ayers <AyersME@hendrix.edu> to sign up, or for more information.  The
+Kick-Off Ice Cream Social event will be Tuesday, Aug. 30, from 4 a.m. =E2=
+=80=94 5
+p.m. in Worsham South!
+
+
+The Fidelis Strong Quartet, with Norman Boehm, Piano
+
+
+
+The Fidelis String Quartet, all members of the Houston Symphony, will
+present a concert in collaboration with Dr. Norman Boehm on Tuesday, Aug.
+30, at 7:30 PM in Staples Auditorium. The program, part of the Harold
+Thompson Concert Series, will feature the Piano Quintet by Robert Schumann
+as well as the premiere performance of Dr. Boehm's Piano Quintet "In the
+Classical Style". The concert is free and open to the public.
+
+Murphy Scholars Informational Session
+
+
+
+Attention, sophomores! The application period is now open for the Murphy
+Scholars Program in Literature and Language, which provides structured
+opportunities in literature and language for students from any major.
+Further details and an application form are available at
+https://www.hendrix.edu/murphyscholars/. A come-and-go informational
+session will be held at the Murphy House on Wednesday, Aug. 31, between
+11:30 a.m. and 1 p.m. All interested sophomores are welcome to drop by.
+Free pizza will be served.
+
+Distinguished Professor Convocation
+
+
+
+Dr. Peg Falls-Corbitt will be formally installed as the Virginia A.
+McCormick Pittman Distinguished Professor of Philosophy at a special
+convocation on Thursday, Sept. 1, at 11:10 a.m., in Reves Recital Hall. Rea=
+d
+more <https://www.hendrix.edu/news/news.aspx?id=3D79923>. Questions? Contac=
+t
+cheatham-hurd@hendrix.edu or 501-450-1254.
+
+Graduate School for Psychology
+
+
+
+Interested in going to graduate school for psychology? On Thursday, Sept.
+1, at 4:10 p.m. in DWR137, Dr. Zorwick and the psych club will be hosting
+an alumni, Deitlinde Heilmayr, who will discuss everything you need to know
+about graduate school. Deitlinde Heilmayr studies social psychology and
+personality at the University of California Riverside. Even if you're not
+sure about going to grad school, this is a great opportunity to ask
+questions and learn more about it! Plus, there will be snacks!
+
+*ANNOUNCEMENTS*
+  Welcome Week Committee T-Shirts
+
+Welcome Week T-shirts on sale for $10 on the second floor Sunporch of the
+SLTC from 11 a.m. =E2=80=94 1 p.m. today. (Sizes: Small, Medium, Large and =
+2X).
+  Wind Ensemble Auditions
+
+
+
+The Hendrix College Wind Ensemble will be holding auditions for the Fall
+2016 semester today. Visit the HCWE website
+<https://www.hendrix.edu/music/music.aspx?id=3D2045> to sign up for an
+audition time and download the audition music. Please contact the conductor=
+ Dr.
+Gretchen Renshaw <renshaw@hendrix.edu> with any questions.
+
+Shirttails After Party Wristbands
+
+
+
+Wristbands for the Shirttails After Party will be available in the Burrow
+today at 11 a.m. =E2=80=94 1 p.m. and 5 p.m. =E2=80=94 7 p.m., and Saturday=
+ 11 a.m. =E2=80=94  1
+p.m. Guest wristbands will be $5 and available for pickup Saturday.
+  World Music and Dance
+
+
+
+Do you Still need a W-2, AE, or CW class to graduate? Are you interested in
+Head hunters and Nose Flutes, Indian Temple Dancing and Whirling Dervishes,
+examining music as a window to other cultures, or ethical and moral
+dilemmas in our foreign policy? Enroll in MUSI 270-01 Fall, 2016 MWF at
+2:10 p.m.
+  HireHendrix and Finding Work-Study Jobs
+
+All available work-study jobs have been or will be posted on HireHendrix,
+the College's online job and internship listings site for students. Go to
+www.hendrix.edu/GetWorkStudy to see the steps for finding and applying for
+work-study jobs as well as completing the necessary paperwork once you=E2=
+=80=99ve
+accepted a job. Students are encouraged to log into HireHendrix
+periodically as work-study jobs are posted and reopened throughout the
+entire academic year, particularly during the first couple weeks of each
+semester. Contact workstudy@hendrix.edu with questions.
+  Piano Lessons
+
+Students interested in piano lessons should sign up on the sheet taped to
+the door of Music Studio 1 in Trieschmann. Lessons begin the week of Aug.
+29. If you have questions, please contact Dr. John Krebs <Krebs@hendrix.edu=
+>,
+450-1245, or see him at Music Studio 4.
+
+
+Organ Lessons
+
+
+
+Students interested in organ lessons should go to Music Studio 4 in
+Trieschmann and sign up on the sheet taped to the door. Lessons begin the
+week of Aug. 29. If you have questions, please contact Dr. John Krebs
+<Krebs@hendrix.edu> at 450-1245.
+
+Need a Job?
+
+
+
+The Odyssey Office and International Programs need you! We have a federal
+work study position open for the academic year. Visit
+https://www.hendrix.edu/GetWorkStudy/ to learn about the process and submit
+your resume for consideration to be our student worker. For more
+information, contact Janina Cambiano at cambiano@hendrix.edu.
+
+
+2016-2017 Hendrix Choir Auditions
+
+
+
+You sing, right? Sure you do. We all do. Maybe you won't admit it to
+anyone, but you love it. And you can have a great time doing it here at
+Hendrix with your friends. Come audition for the Hendrix Choir! Auditions
+begin the afternoon of Monday, Aug. 29, at 1:30 p.m. and will continue all
+week. E-mail Dr. Morgan <morgana@hendrix.edu> to schedule your 10 minute
+appointment. You won't regret it!
+
+Student Worker Position for the Provosts Office and Human Subjects Review
+Board
+
+
+
+The Provosts Office and HSRB are looking for a motivated and organized
+student worker to help with administrative tasks for approximately 10 hours
+per week. This student would become very familiar with the HSRB review
+process, which would be particularly beneficial for someone considering
+graduate school. If you are interested in this position, please see our ad
+on HireHendrix. You may also email Dr. Kennedy <kennedy@hendrix.edu> with
+any questions you may have.
+  Student Worker Position Openings in the Office of Admission
+
+The Office of Admission is looking to hire Federal Work Study-eligible
+students for current student worker openings. Working in the admission
+office offers an excellent opportunity to build your professional resume,
+learn more about the Hendrix College admission process, and connect with
+experienced college staff members. If you are detail oriented, responsible,
+proactive, and a team player we strongly encourage you to apply today.
+Applications should be submitted through HireHendrix and will be reviewed
+until all open positions are filled. Contact Hannah Hill <hillh@hendrix.edu=
+>
+with any questions.
+  Hendrix Cheerleading Tryouts
+
+
+
+If interested in Hendrix Cheerleading tryouts, you can grab a tryout packet
+from the Athletic Department on the second floor of the WAC in a box
+labeled Lana Moix. No experience required for tryouts. Tryouts will be held
+Sept. 6, and 8, from 6 =E2=80=93 8 p.m. in the WAC rec gym. Your completed =
+packet
+is due Aug. 31, at 2 p.m. (including a physical and sickle cell test).
+Contact Coach Lana Moix <moix@hendrix.edu> for more information.
+
+The Profile Staff Applications
+
+
+
+Do you like to write, take pictures, or design in your spare time? What if
+you got paid to do all three? The Profile, Hendrix's campus-wide,
+student-run newsmagazine, is now accepting applications for its 2016-2017
+staff, including writers, photographers, and layout designers. All
+positions are paid, and no prior experience is necessary! To receive an
+application, please email thehendrixcollegeprofile@gmail.com stating your
+interest or with any questions. All applications are due via email by
+Wednesday, Aug. 31, at 11:59 p.m.
+
+
+Last day to Add a Class
+
+
+
+Monday, Aug. 29, at 5 p.m. is the deadline to add a class to your schedule
+without incurring a $100 late registration fee and having to have the
+course instructor approve the add.
+
+
+
+If you wish to make a schedule change before the deadline you will need to
+contact your advisor in a timely manner so that he or she can complete the
+change online prior to this deadline.  Please remember that your advisor
+may not be available on short notice.  Not being able to contact your
+advisor will not be accepted as an excuse for missing the deadline.
+
+
+
+If you have any questions you may contact the Registrar=E2=80=99s Office.
+
+Dance Team Tryouts
+
+
+
+Hendrix college Dance Team tryouts will be held Sept. 2, at 4:30 p.m.
+Anyone interested in trying out please contact coach Donna Franks
+<Franks@hendrix.edu>. 501-278-1511.
+
+Volunteer Action Committee Advocacy Chair Opening
+
+
+
+Passionate about current social issues? Enjoy documentaries? Looking for a
+fun/food-filled meeting on Sunday evenings? Apply for the VAC Advocacy
+Chair position! The successful applicant will be responsible for planning
+React to Film documentary screenings and leading discussions afterwards,
+creating awareness on campus about social issues, and being a part of the
+VAC community. For an application, email VAC Chair Mattie Thacker at
+ThackerMB@hendrix.edu. Applications will be due Sept. 5 by 5 p.m.
+
+Fall Internship Deadline: Tuesday, Sept. 6
+
+
+
+Official College Internships are a great way to prepare for "Life After
+Hendrix" and explore a career field or calling in your life. BONUS: you can
+get an Odyssey PL credit and have the option to count your internship as an
+academic class. What's required? A minimum of 8 weeks AND 120 hours at your
+work site, being a Sophomore or above in good standing with the College,
+and working with a Faculty member and Career Services to learn about your
+field and yourself. Interested? Let's talk! You can walk-in SLTC 240
+anytime between 1 p.m. =E2=80=94 4 p.m. each Wednesday, or call 501-450-144=
+0 or
+stop by SLTC 2nd floor reception desk to get an internship packet and
+schedule an appointment with Leigh.  Deadline to file Fall semester
+internship is Tuesday, Sept. 6.
+
+ECC New Student/At-Large Representative Applications
+
+
+
+Applications for New Student and At-Large members in the Environmental
+Concerns Committee open Aug. 25, and are due Sept. 8, at midnight. Please
+email ECC@hendrix.edu for an application.
+
+
+Phonathon is Hiring
+
+
+
+Raise money to help support the College and get paid to do it! Looking for
+articulate, engaging students to call alumni, parents, and friends of
+Hendrix to ask for their support. Sept. 10 =E2=80=94 22, flexible hours and=
+ shifts,
+Hendrix or Federal Work Study welcome. Contact Kent Dunson
+<DunsonK@hendrix.edu> for more information or about how to apply.
+
+
+
+
+
+
+
+*MEETINGS *
+Exploring Ministry Together
+
+
+
+If you have thought about professional or ordained ministry, join students
+and the Chaplain for small group gathering on Sunday nights at 8 p.m. =E2=
+=80=94 9
+p.m. in the Miller Center. The group will host special guests, talk about
+different ministries, and go on a retreat later this fall. For more
+information, contact Rev. Whitney <whitney@hendrix.edu>.
+
+Hendrix Democracy Program Meeting
+
+
+
+Join the Hendrix Democracy Program, Hendrix=E2=80=99s politics and internat=
+ional
+relations undergraduate research group, for its introductory meeting on
+Tuesday, Aug. 30, in the Mills Library at 4:15 p.m. We will plan out group
+research projects and discuss Dr. Thomas Mann=E2=80=99s bestseller, Politic=
+al
+Extremism and the 2016 Election in anticipation of his visit to Hendrix on
+Sept. 29. Email kolev@hendrix.edu for further information.
+
+KHDX DJ Interest Meeting
+
+
+
+Learn how to become a DJ for KHDX, Hendrix's student radio station, on
+Tuesday, Aug. 30, at 11 a.m. in Campbell dining room or at 5 p.m. in Mills
+B. We accept all kinds of shows, from political talk shows to that obscure
+music genre no one's heard of yet. You can attend this meeting even if you
+don't yet have an idea for a show!
+
+Student Congress Opening Meeting
+
+
+
+The first meeting of Hendrix College's Student Congress Team for Fall 2016
+is Tuesday, Aug. 30 at 8 p.m. in Mills 101. Hendrix College has been
+fielding teams to ACTAA's Student Congress Tournament at the State Capitol
+every November for almost three decades. We are proud to continue this
+tradition and invite you to join us. All levels of experience are welcome
+at practice!
+
+
+
+
+
+*MENU*
+
+
+Lunch
+
+
+
+Chicken Livers, Liver & Onions, Chicken Strips, Grilled Cod w/Dill Sauce,
+Macaroni & Cheese (Lacto Vegetarian), Breaded Chick=E2=80=99n Tenders (Vega=
+n),
+Vegan Tofu Mac (Vegan)
+
+
+Dinner
+
+
+
+Chicken Cordon Bleu, Seasoned Grilled Steak, Seasoned Grilled Chicken,
+Pasta Primavera (Vegan), Rice Pilaf, Loaded Mashed Potatoes, Asparagus
+Spears, Carrots, Sweet Potato Casserole, Broccoli Casserole
+
+
+Vegetables
+
+
+
+Corn, Green Beans, Broccoli, Black Beans, Catalina Blend, Green Peas, Corn
+Fritters, Pinto Beans
+
+
+Soups
+
+
+
+Chicken Noodle, Clam Chowder, Bean & Bacon, Garden Vegetable (Vegetarian)
+  Featured Pizza of the Day
+
+
+
+Meatlovers
+
+
+World=E2=80=99s Fare
+
+
+
+Alfredo Sauce, Marinara Sauce
+
+
+
+
+
+*LOST & FOUND*
+
+
+
+If you have lost or found something, stop by the Lost and Found at the
+Information Desk on the first floor of the SLTC.
+
+
+
+
+
+*SUBMISSIONS*
+
+
+
+Hendrix Today is brought to you by the Office of Marketing Communications.
+Submit Hendrix Today items here <https://www.hendrix.edu/hendrixtoday>.
+
+--94eb2c09149c80af25053b00c85b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr"><br>
+</p>
+<br><div class=3D"gmail_quote"><div dir=3D"ltr">---------- Forwarded messag=
+e ---------<br>From: Communications &lt;<a href=3D"mailto:prstu2@hendrix.ed=
+u">prstu2@hendrix.edu</a>&gt;<br>Date: 10:37am, Fri, Aug 26, 2016<br>Subjec=
+t: Hendrix Today: Friday, Aug. 26<br>To: Hendrix Today &lt;<a href=3D"mailt=
+o:HToday@hendrix.edu">HToday@hendrix.edu</a>&gt;<br></div><br><br>
+
+
+
+
+
+<div lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div>
+<p class=3D"MsoNormal"><img width=3D"649" height=3D"116" src=3D"cid:image00=
+3.jpg@01D1FF85.BE410340"><u></u><u></u></p>
+<p style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p>
+<p style=3D"margin-left:13.5pt"><a href=3D"#m_-3200956681613724546__EVENTS"=
+><span style=3D"color:#f5822a">EVENTS</span></a>
+<b>|</b> <a href=3D"#m_-3200956681613724546__ANNOUNCEMENTS"><span style=3D"=
+color:#f5822a">ANNOUNCEMENTS</span></a>
+<b>|</b> <a href=3D"#m_-3200956681613724546__MEETINGS"><span style=3D"color=
+:#f5822a">MEETINGS</span></a> | <a href=3D"#m_-3200956681613724546__MENU">
+<span style=3D"color:#f5822a">MENU</span></a> <b>|</b> <a href=3D"#m_-32009=
+56681613724546__LOST_&amp;_FOUND"><span style=3D"color:#f5822a">LOST &amp; =
+FOUND</span></a>
+<b>|</b> <a href=3D"https://www.hendrix.edu/hendrixtoday" target=3D"_blank"=
+><span style=3D"color:#f5822a">SUBMISSIONS</span></a>=C2=A0=C2=A0
+<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Friday, August 26, 2016=
+<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"m_-320095668=
+1613724546__EVENTS"></a><b><span style=3D"font-size:14.0pt;color:black">EVE=
+NTS</span></b><b><span style=3D"font-size:14.0pt;color:black"><u></u><u></u=
+></span></b></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>Welcome Week Events<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p style=3D"margin-left:27.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></span></span><u></u>Friday, Aug. 26<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Student Involvement Fair: 11 a.m. =E2=80=94 2 p=
+.m. in Worsham<span style=3D"font-family:&quot;Courier New&quot;"><u></u><u=
+></u></span></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Getting to Know Hendrix=E2=80=99s Natural State=
+: 3 p.m. =E2=80=94 5 p.m. at DW (Fountain Side)<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Martin Hall Cookout: 5 p.m. at Martin Breezeway=
+<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Open Shirttails Practice: 10 p.m. =E2=80=94 11 =
+p.m., location is to be determined<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:27.0pt"><u></u>=C2=A0<u></u></p=
+>
+<p style=3D"margin-left:27.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></span></span><u></u>Saturday, Aug. 27<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Men=E2=80=99s Teasers: 4:30 p.m. at the Residen=
+ce Halls Patio
+<span style=3D"font-family:&quot;Courier New&quot;"><u></u><u></u></span></=
+p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Women=E2=80=99s Teasers: 6 p.m. at the Residenc=
+e Halls Patio<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>Shirttails Competition: 7 p.m. at the Brick Pit=
+<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>KHDX Shirttails After Party: 9 p.m. =E2=80=94 1=
+ a.m. at the Brick Pit<u></u><u></u></p>
+<p style=3D"margin-left:45.0pt">
+<u></u><span style=3D"font-family:Symbol"><span>=C2=B7<span style=3D"font:7=
+.0pt &quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0
+</span></span></span><u></u>SOAR Alternative Event: 9 p.m. =E2=80=94 midnig=
+ht in Campbell<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<h2>German Coffee Hour<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">German Club invites any=
+one who speaks even a little German to stop by our Kaffeestunde this and ev=
+ery Friday from 4 p.m. =E2=80=94 5 p.m.=C2=A0 We get together at Panera Bre=
+ad in the Village to unwind from the week and chat
+ informally auf Deutsch: hope you can join us! For further information, con=
+tact Dr. Wayne Oudekerk,
+<a href=3D"mailto:oudekerk@hendrix.edu" target=3D"_blank">oudekerk@hendrix.=
+edu</a>.<u></u><u></u></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>Shirt-Deco with SAOR<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Join us for t-shirt dec=
+orating, pizza, and drinks this Saturday, Aug. 27, in Campbell Dining Hall =
+between 8 p.m. and 11 p.m.<br>
+<br>
+<u></u><u></u></p>
+<h2>Get Your Wristbands for Shirttails After Party<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">KHDX will host the Shir=
+ttails After Party in Worsham from 9 p.m. =E2=80=94 1 a.m. this Saturday fe=
+aturing DJ Doug Kramer. You can get student and guest wristbands ($5) in th=
+e Burrow today from 11 a.m. =E2=80=94 1 p.m. or from
+ 5 p.m. =E2=80=94 7 p.m., and Saturday from 11 a.m. =E2=80=94 1 a.m. Wristb=
+ands are necessary for entry.<br>
+<br>
+<u></u><u></u></p>
+<h2>Worship Service in Greene Chapel<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Join the Chaplain=E2=80=
+=99s Office for weekly interdenominational worship in Greene Chapel startin=
+g this Sunday, Aug. 28, at 7 p.m. =E2=80=94 8 p.m. The sermon series is =E2=
+=80=9CFaith and Film,=E2=80=9D and this Sunday, Rev. J.J. Whitney will
+ be preaching on &quot;The Perks of Being a Wallflower&quot;.=C2=A0 For mor=
+e information, contact Rev. Whitney at
+<a href=3D"mailto:whitney@hendrix.edu" target=3D"_blank">whitney@hendrix.ed=
+u</a>.<br>
+<br>
+<u></u><u></u></p>
+<h2>Compline at Hendrix<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Stop by Greene Chapel o=
+n Sundays at 9 p.m. for Compline, a candlelit service of sung evening praye=
+rs led by a small choir of students. This week, the choir will sing &quot;I=
+f ye love me&quot; by Thomas Tallis and &quot;Nunc
+ Dimittis&quot; by Christopher Tye.<br>
+<br>
+<u></u><u></u></p>
+<h2>Hendrix Choir Open Rehearsal<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Come join your friends =
+in the Hendrix Choir for a &quot;y&#39;all come sing!&quot; afternoon of mu=
+sic and jovial positivity on Monday, Aug. 29, at 4:10 p.m. =E2=80=94 5:30 p=
+.m. No previous experience is necessary. Interested in auditioning
+ for the choir? Come check it out! Have a friend in the group and want to s=
+ee why they&#39;re busy after 4 p.m.? Here&#39;s your chance! This is a gre=
+at way to experience choral music if you&#39;ve never tried it before. Afte=
+rwards, join us for the Music Department Mixer!
+ Email <a href=3D"mailto:morgana@hendrix.edu" target=3D"_blank">Dr. Morgan<=
+/a> with questions.<br>
+<br>
+<u></u><u></u></p>
+<h2>Music Department Mixer<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Join fellow students an=
+d faculty from the Music Department for a social gathering on Monday, Aug. =
+29, at 5:30 p.m. in the Trieschmann Gallery, complete with pizza and refres=
+hments! This is a great way to learn
+ more about our ensembles, music classes, lessons, and to meet fellow stude=
+nts and faculty. All are welcome!<br>
+<br>
+<u></u><u></u></p>
+<h2>Small Groups<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Interested in exploring=
+ your faith in a small group setting? Looking for a Bible study to join on =
+campus? Want fellowship and accountability with others, both old faces and =
+new?=C2=A0 Small groups may be for you contact
+<a href=3D"mailto:AyersME@hendrix.edu" target=3D"_blank">Beth Ayers</a> to =
+sign up, or for more information.=C2=A0 The Kick-Off Ice Cream Social event=
+ will be Tuesday, Aug. 30, from 4 a.m. =E2=80=94 5 p.m. in Worsham South!<u=
+></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<h2>The Fidelis Strong Quartet, with Norman Boehm, Piano<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">The Fidelis String Quar=
+tet, all members of the Houston Symphony, will present a concert in collabo=
+ration with Dr. Norman Boehm on Tuesday, Aug. 30, at 7:30 PM in Staples Aud=
+itorium. The program, part of the Harold
+ Thompson Concert Series, will feature the Piano Quintet by Robert Schumann=
+ as well as the premiere performance of Dr. Boehm&#39;s Piano Quintet &quot=
+;In the Classical Style&quot;. The concert is free and open to the public.<=
+br>
+<br>
+<u></u><u></u></p>
+<h2>Murphy Scholars Informational Session<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Attention, sophomores! =
+The application period is now open for the Murphy Scholars Program in Liter=
+ature and Language, which provides structured opportunities in literature a=
+nd language for students from any major.
+ Further details and an application form are available at <a href=3D"https:=
+//www.hendrix.edu/murphyscholars/" target=3D"_blank">
+https://www.hendrix.edu/murphyscholars/</a>. A come-and-go informational se=
+ssion will be held at the Murphy House on Wednesday, Aug. 31, between 11:30=
+ a.m. and 1 p.m. All interested sophomores are welcome to drop by. Free piz=
+za will be served.<br>
+<br>
+<u></u><u></u></p>
+<h2>Distinguished Professor Convocation<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Dr. Peg Falls-Corbitt w=
+ill be formally installed as the Virginia A. McCormick Pittman Distinguishe=
+d Professor of Philosophy at a special convocation on Thursday, Sept. 1, at=
+ 11:10 a.m., in Reves Recital Hall.
+<a href=3D"https://www.hendrix.edu/news/news.aspx?id=3D79923" target=3D"_bl=
+ank">Read more</a>. Questions? Contact
+<a href=3D"mailto:cheatham-hurd@hendrix.edu" target=3D"_blank">cheatham-hur=
+d@hendrix.edu</a> or 501-450-1254.<br>
+<br>
+<u></u><u></u></p>
+<h2>Graduate School for Psychology<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Interested in going to =
+graduate school for psychology? On Thursday, Sept. 1, at 4:10 p.m. in DWR13=
+7, Dr. Zorwick and the psych club will be hosting an alumni, Deitlinde Heil=
+mayr, who will discuss everything you
+ need to know about graduate school. Deitlinde Heilmayr studies social psyc=
+hology and personality at the University of California Riverside. Even if y=
+ou&#39;re not sure about going to grad school, this is a great opportunity =
+to ask questions and learn more about
+ it! Plus, there will be snacks!<a name=3D"m_-3200956681613724546__ANNOUNCE=
+MENTS"></a><br>
+<br>
+<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+size:14.0pt;color:black">ANNOUNCEMENTS</span></b><b><span style=3D"font-siz=
+e:14.0pt;color:black"><u></u><u></u></span></b></p>
+<h2 style=3D"margin-left:0in"><u></u>=C2=A0<u></u></h2>
+<h2>Welcome Week Committee T-Shirts<u></u><u></u></h2>
+<h2><u></u>=C2=A0<u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Welcome Week T-shirts o=
+n sale for $10 on the second floor Sunporch of the SLTC from 11 a.m. =E2=80=
+=94 1 p.m. today. (Sizes: Small, Medium, Large and 2X).<u></u><u></u></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>Wind Ensemble Auditions<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">The Hendrix College Win=
+d Ensemble will be holding auditions for the Fall 2016 semester today. Visi=
+t the
+<a href=3D"https://www.hendrix.edu/music/music.aspx?id=3D2045" target=3D"_b=
+lank">HCWE website</a> to sign up for an audition time and download the aud=
+ition music. Please contact the conductor
+<a href=3D"mailto:renshaw@hendrix.edu" target=3D"_blank">Dr. Gretchen Rensh=
+aw</a> with any questions.<br>
+<br>
+<u></u><u></u></p>
+<h2>Shirttails After Party Wristbands<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Wristbands for the Shir=
+ttails After Party will be available in the Burrow today at 11 a.m. =E2=80=
+=94 1 p.m. and 5 p.m. =E2=80=94 7 p.m., and Saturday 11 a.m. =E2=80=94=C2=
+=A0 1 p.m. Guest wristbands will be $5 and available for pickup Saturday.<u=
+></u><u></u></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>World Music and Dance<u></u><u></u></h2>
+<pre><u></u>=C2=A0<u></u></pre>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Do you Still need a W-2=
+, AE, or CW class to graduate?<span style=3D"font-family:&quot;Courier New&=
+quot;">
+</span>Are you interested in Head hunters and Nose Flutes, Indian Temple Da=
+ncing and Whirling Dervishes, examining music as a window to other cultures=
+, or ethical and moral dilemmas in our foreign policy? Enroll in MUSI 270-0=
+1 Fall, 2016 MWF at 2:10 p.m.<span style=3D"font-family:&quot;Courier New&q=
+uot;"><u></u><u></u></span></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>HireHendrix and Finding Work-Study Jobs<u></u><u></u></h2>
+<h2><u></u>=C2=A0<u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">All available work-stud=
+y jobs have been or will be posted on HireHendrix, the College&#39;s online=
+ job and internship listings site for students. Go to
+<a href=3D"http://www.hendrix.edu/GetWorkStudy" target=3D"_blank">www.hendr=
+ix.edu/GetWorkStudy</a> to see the steps for finding and applying for work-=
+study jobs as well as completing the necessary paperwork once you=E2=80=99v=
+e accepted a job. Students are encouraged to log into HireHendrix
+ periodically as work-study jobs are posted and reopened throughout the ent=
+ire academic year, particularly during the first couple weeks of each semes=
+ter. Contact
+<a href=3D"mailto:workstudy@hendrix.edu" target=3D"_blank">workstudy@hendri=
+x.edu</a> with questions.<u></u><u></u></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>Piano Lessons<u></u><u></u></h2>
+<h2><u></u>=C2=A0<u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Students interested in =
+piano lessons should sign up on the sheet taped to the door of Music Studio=
+ 1 in Trieschmann. Lessons begin the week of Aug. 29. If you have questions=
+, please contact
+<a href=3D"mailto:Krebs@hendrix.edu" target=3D"_blank">Dr. John Krebs</a>, =
+450-1245, or see him at Music Studio 4.<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<h2>Organ Lessons<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Students interested in =
+organ lessons should go to Music Studio 4 in Trieschmann and sign up on the=
+ sheet taped to the door. Lessons begin the week of Aug. 29. If you have qu=
+estions, please contact
+<a href=3D"mailto:Krebs@hendrix.edu" target=3D"_blank">Dr. John Krebs</a> a=
+t 450-1245.<br>
+<br>
+<u></u><u></u></p>
+<h2>Need a Job?<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">The Odyssey Office and =
+International Programs need you! We have a federal work study position open=
+ for the academic year. Visit
+<a href=3D"https://www.hendrix.edu/GetWorkStudy/" target=3D"_blank">https:/=
+/www.hendrix.edu/GetWorkStudy/</a> to learn about the process and submit yo=
+ur resume for consideration to be our student worker. For more information,=
+ contact Janina Cambiano at
+<a href=3D"mailto:cambiano@hendrix.edu" target=3D"_blank">cambiano@hendrix.=
+edu</a>.<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<h2>2016-2017 Hendrix Choir Auditions<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">You sing, right? Sure y=
+ou do. We all do. Maybe you won&#39;t admit it to anyone, but you love it. =
+And you can have a great time doing it here at Hendrix with your friends. C=
+ome audition for the Hendrix Choir! Auditions
+ begin the afternoon of Monday, Aug. 29, at 1:30 p.m. and will continue all=
+ week. E-mail
+<a href=3D"mailto:morgana@hendrix.edu" target=3D"_blank">Dr. Morgan</a> to =
+schedule your 10 minute appointment. You won&#39;t regret it!<br>
+<br>
+<u></u><u></u></p>
+<h2>Student Worker Position for the Provosts Office and Human Subjects Revi=
+ew Board<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">The Provosts Office and=
+ HSRB are looking for a motivated and organized student worker to help with=
+ administrative tasks for approximately 10 hours per week. This student wou=
+ld become very familiar with the HSRB
+ review process, which would be particularly beneficial for someone conside=
+ring graduate school. If you are interested in this position, please see ou=
+r ad on HireHendrix. You may also email
+<a href=3D"mailto:kennedy@hendrix.edu" target=3D"_blank">Dr. Kennedy</a> wi=
+th any questions you may have.<u></u><u></u></p>
+<h2 style=3D"margin-left:0in"><u></u>=C2=A0<u></u></h2>
+<h2>Student Worker Position Openings in the Office of Admission<u></u><u></=
+u></h2>
+<h2><u></u>=C2=A0<u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">The Office of Admission=
+ is looking to hire Federal Work Study-eligible students for current studen=
+t worker openings. Working in the admission office offers an excellent oppo=
+rtunity to build your professional resume,
+ learn more about the Hendrix College admission process, and connect with e=
+xperienced college staff members. If you are detail oriented, responsible, =
+proactive, and a team player we strongly encourage you to apply today. Appl=
+ications should be submitted through
+ HireHendrix and will be reviewed until all open positions are filled. Cont=
+act <a href=3D"mailto:hillh@hendrix.edu" target=3D"_blank">
+Hannah Hill</a> with any questions.<u></u><u></u></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>Hendrix Cheerleading Tryouts<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">If interested in Hendri=
+x Cheerleading tryouts, you can grab a tryout packet from the Athletic Depa=
+rtment on the second floor of the WAC in a box labeled Lana Moix. No experi=
+ence required for tryouts. Tryouts will
+ be held Sept. 6, and 8, from 6 =E2=80=93 8 p.m. in the WAC rec gym. Your c=
+ompleted packet is due Aug. 31, at 2 p.m. (including a physical and sickle =
+cell test). Contact Coach
+<a href=3D"mailto:moix@hendrix.edu" target=3D"_blank">Lana Moix</a> for mor=
+e information.<br>
+<br>
+<u></u><u></u></p>
+<h2>The Profile Staff Applications<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Do you like to write, t=
+ake pictures, or design in your spare time? What if you got paid to do all =
+three? The Profile, Hendrix&#39;s campus-wide, student-run newsmagazine, is=
+ now accepting applications for its 2016-2017
+ staff, including writers, photographers, and layout designers. All positio=
+ns are paid, and no prior experience is necessary! To receive an applicatio=
+n, please email
+<a href=3D"mailto:thehendrixcollegeprofile@gmail.com" target=3D"_blank">the=
+hendrixcollegeprofile@gmail.com</a> stating your interest or with any quest=
+ions. All applications are due via email by Wednesday, Aug. 31, at 11:59 p.=
+m.<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<h2>Last day to Add a Class<u></u><u></u></h2>
+<pre><u></u>=C2=A0<u></u></pre>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Monday, Aug. 29, at 5 p=
+.m. is the deadline to add a class to your schedule without incurring a $10=
+0 late registration fee and having to have the course instructor approve th=
+e add.=C2=A0
+<span style=3D"font-family:&quot;Courier New&quot;"><u></u><u></u></span></=
+p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">If you wish to make a s=
+chedule change before the deadline you will need to contact your advisor in=
+ a timely manner so that he or she can complete the change online prior to =
+this deadline.=C2=A0 Please remember that
+ your advisor may not be available on short notice.=C2=A0 Not being able to=
+ contact your advisor will not be accepted as an excuse for missing the dea=
+dline.
+<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">If you have any questio=
+ns you may contact the Registrar=E2=80=99s Office.<br>
+<br>
+<u></u><u></u></p>
+<h2>Dance Team Tryouts<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Hendrix college Dance T=
+eam tryouts will be held Sept. 2, at 4:30 p.m. Anyone interested in trying =
+out please contact coach
+<a href=3D"mailto:Franks@hendrix.edu" target=3D"_blank">Donna Franks</a>. 5=
+01-278-1511.<br>
+<br>
+<u></u><u></u></p>
+<h2>Volunteer Action Committee Advocacy Chair Opening<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Passionate about curren=
+t social issues? Enjoy documentaries? Looking for a fun/food-filled meeting=
+ on Sunday evenings? Apply for the VAC Advocacy Chair position! The success=
+ful applicant will be responsible for
+ planning React to Film documentary screenings and leading discussions afte=
+rwards, creating awareness on campus about social issues, and being a part =
+of the VAC community. For an application, email VAC Chair Mattie Thacker at
+<a href=3D"mailto:ThackerMB@hendrix.edu" target=3D"_blank">ThackerMB@hendri=
+x.edu</a>. Applications will be due Sept. 5 by 5 p.m.<br>
+<br>
+<u></u><u></u></p>
+<h2>Fall Internship Deadline: Tuesday, Sept. 6<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Official College Intern=
+ships are a great way to prepare for &quot;Life After Hendrix&quot; and exp=
+lore a career field or calling in your life. BONUS: you can get an Odyssey =
+PL credit and have the option to count your internship
+ as an academic class. What&#39;s required? A minimum of 8 weeks AND 120 ho=
+urs at your work site, being a Sophomore or above in good standing with the=
+ College, and working with a Faculty member and Career Services to learn ab=
+out your field and yourself. Interested?
+ Let&#39;s talk! You can walk-in SLTC 240 anytime between 1 p.m. =E2=80=94 =
+4 p.m. each Wednesday, or call 501-450-1440 or stop by SLTC 2nd floor recep=
+tion desk to get an internship packet and schedule an appointment with Leig=
+h.=C2=A0 Deadline to file Fall semester internship
+ is Tuesday, Sept. 6.<br>
+<br>
+<u></u><u></u></p>
+<h2>ECC New Student/At-Large Representative Applications<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Applications for New St=
+udent and At-Large members in the Environmental Concerns Committee open Aug=
+. 25, and are due Sept. 8, at midnight. Please email
+<a href=3D"mailto:ECC@hendrix.edu" target=3D"_blank">ECC@hendrix.edu</a> fo=
+r an application.<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<h2>Phonathon is Hiring<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Raise money to help sup=
+port the College and get paid to do it! Looking for articulate, engaging st=
+udents to call alumni, parents, and friends of Hendrix to ask for their sup=
+port. Sept. 10 =E2=80=94 22, flexible hours
+ and shifts, Hendrix or Federal Work Study welcome.<span style=3D"font-fami=
+ly:&quot;Courier New&quot;">
+</span>Contact <a href=3D"mailto:DunsonK@hendrix.edu" target=3D"_blank">Ken=
+t Dunson</a> for more information or about how to apply.<span style=3D"font=
+-family:&quot;Courier New&quot;"><u></u><u></u></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"m_-320095668=
+1613724546__MEETINGS"></a><b><span style=3D"font-size:14.0pt;color:black"><=
+u></u>=C2=A0<u></u></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+size:14.0pt;color:black">MEETINGS<br>
+<br>
+</span></b><u></u><u></u></p>
+<h2>Exploring Ministry Together<u></u><u></u></h2>
+<pre><u></u>=C2=A0<u></u></pre>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">If you have thought abo=
+ut professional or ordained ministry, join students and the Chaplain for sm=
+all group gathering on Sunday nights at 8 p.m. =E2=80=94 9 p.m. in the Mill=
+er Center. The group will host special guests,
+ talk about different ministries, and go on a retreat later this fall. For =
+more information, contact
+<a href=3D"mailto:whitney@hendrix.edu" target=3D"_blank">Rev. Whitney</a>. =
+<br>
+<br>
+<span style=3D"font-family:&quot;Courier New&quot;"><u></u><u></u></span></=
+p>
+<h2>Hendrix Democracy Program Meeting<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Join the Hendrix Democr=
+acy Program, Hendrix=E2=80=99s politics and international relations undergr=
+aduate research group, for its introductory meeting on Tuesday, Aug. 30, in=
+ the Mills Library at 4:15 p.m. We will plan
+ out group research projects and discuss Dr. Thomas Mann=E2=80=99s bestsell=
+er, Political Extremism and the 2016 Election in anticipation of his visit =
+to Hendrix on Sept. 29. Email
+<a href=3D"mailto:kolev@hendrix.edu" target=3D"_blank">kolev@hendrix.edu</a=
+> for further information.<br>
+<br>
+<u></u><u></u></p>
+<h2>KHDX DJ Interest Meeting<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Learn how to become a D=
+J for KHDX, Hendrix&#39;s student radio station, on Tuesday, Aug. 30, at 11=
+ a.m. in Campbell dining room or at 5 p.m. in Mills B. We accept all kinds =
+of shows, from political talk shows to that
+ obscure music genre no one&#39;s heard of yet. You can attend this meeting=
+ even if you don&#39;t yet have an idea for a show!<br>
+<br>
+<u></u><u></u></p>
+<h2>Student Congress Opening Meeting<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">The first meeting of He=
+ndrix College&#39;s Student Congress Team for Fall 2016 is Tuesday, Aug. 30=
+ at 8 p.m. in Mills 101. Hendrix College has been fielding teams to ACTAA&#=
+39;s Student Congress Tournament at the State
+ Capitol every November for almost three decades. We are proud to continue =
+this tradition and invite you to join us. All levels of experience are welc=
+ome at practice!<u></u><u></u></p>
+<p class=3D"MsoNormal"><b><u></u>=C2=A0<u></u></b></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"m_-320095668=
+1613724546__MENU"></a><b><span style=3D"font-size:14.0pt;color:black">MENU<=
+u></u><u></u></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<h2><span lang=3D"EN">Lunch<u></u><u></u></span></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span lang=3D"EN"><u></=
+u>=C2=A0<u></u></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Chicken Livers, Liver &=
+amp; Onions, Chicken Strips, Grilled Cod w/Dill Sauce, Macaroni &amp; Chees=
+e (Lacto Vegetarian), Breaded Chick=E2=80=99n Tenders (Vegan), Vegan Tofu M=
+ac (Vegan) =C2=A0<u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN"><u></u>=C2=A0<u></u></span></b>=
+</p>
+<h2><span lang=3D"EN">Dinner<u></u><u></u></span></h2>
+<p class=3D"MsoNormal"><b><span lang=3D"EN"><u></u>=C2=A0<u></u></span></b>=
+</p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Chicken Cordon Bleu, Se=
+asoned Grilled Steak, Seasoned Grilled Chicken, Pasta Primavera (Vegan), Ri=
+ce Pilaf, Loaded Mashed Potatoes, Asparagus Spears, Carrots, Sweet Potato C=
+asserole, Broccoli Casserole<u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN"><u></u>=C2=A0<u></u></span></b>=
+</p>
+<h2><span lang=3D"EN">Vegetables<u></u><u></u></span></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span lang=3D"EN"><u=
+></u>=C2=A0<u></u></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Corn, Green Beans, Broc=
+coli, Black Beans, Catalina Blend,
+<span style=3D"font-size:12.0pt">Green Peas</span>, <span style=3D"font-siz=
+e:12.0pt">
+Corn Fritters</span>, <span style=3D"font-size:12.0pt">Pinto Beans<u></u><u=
+></u></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<h2>Soups<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Chicken Noodle, Clam Ch=
+owder, Bean &amp; Bacon, Garden Vegetable (Vegetarian)<u></u><u></u></p>
+<h2><u></u>=C2=A0<u></u></h2>
+<h2>Featured Pizza of the Day<u></u><u></u></h2>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Meatlovers<u></u><u></u=
+></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<h2>World=E2=80=99s Fare<u></u><u></u></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">Alfredo Sauce, Marinara=
+ Sauce<u></u><u></u></p>
+<p class=3D"MsoNormal"><span lang=3D"EN"><u></u>=C2=A0<u></u></span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"m_-320095668=
+1613724546__LOST_&amp;_FOUND"></a><b><span style=3D"font-size:14.0pt;color:=
+black">LOST &amp; FOUND<u></u><u></u></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><b><span style=3D"font-=
+size:14.0pt;color:black"><u></u>=C2=A0<u></u></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt">If you have lost or fou=
+nd something, stop by the Lost and Found at the Information Desk on the fir=
+st floor of the SLTC.<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><a name=3D"m_-320095668=
+1613724546__SUBMISSIONS"></a><b><span style=3D"font-size:14.0pt;color:black=
+">SUBMISSIONS<u></u><u></u></span></b></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal" style=3D"margin-left:13.5pt"><span style=3D"font-fam=
+ily:&quot;Verdana&quot;,sans-serif">Hendrix Today is brought to you by the =
+Office of Marketing Communications. Submit Hendrix Today items
+</span><a href=3D"https://www.hendrix.edu/hendrixtoday" target=3D"_blank">h=
+ere</a><span style=3D"font-family:&quot;Verdana&quot;,sans-serif">.
+<span style=3D"color:#f79646">=C2=A0</span><u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><u></u>=C2=A0<u></u></span></p>
+</div>
+</div>
+
+</div>
+
+--94eb2c09149c80af25053b00c85b--
+
+--94eb2c09149c80af29053b00c85c
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Disposition: inline; filename="image003.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <156c8e73ccb6917eb1>
+X-Attachment-Id: 156c8e73ccb6917eb1
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAB0AokDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKym8T6Cjsjaz
+YKynBBuFyD+dN/4Snw//ANBvT/8AwJT/ABoA16KyP+Ep8P8A/Qb0/wD8CU/xo/4Snw//ANBvT/8A
+wJT/ABoA16KyP+Eq8P8A/Qb0/wD8CU/xrVR1kRXRgyMMqwOQRQA6iiigAooooAKKKKACiiigAooo
+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
+LsWPzVkIIzu3jbtAx6HNei0UAFct4Kh1LTrCTTL/AEua3Ec00i3BkRkkDSswwFJPQ9xXU0UAc74y
+sr290i2FhatdTQX0FwYldVLKjgnBYgZxW3ZTy3NpHNPayWsjD5oZGUsv1Kkj8jU9FAHF3OnapB8R
+JdTjsb+WzmigjD21yiR5UsG8xSQWA3Z4rs3XcjLkjIxkdqWigDgfC+l+JNJvNF014ZodPsIporth
+JGYZ+pjdR9/cScnOK6/XLaW80DUbWBd801tJGi5xlipAFX6KAOb8E299Z6FHZ39pf28kKouby4SY
+sdoB2lScKMdDXSUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQBz994ts7C9ltZIJi8ZwSAMGq/wDwnNh/z73H5D/GuX8Sf8jDef7/APQVlV85VzLE
+RqSins30PpKOWYeVOMmt0up3v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFZ/2pie6+40/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3noln4vs729htUgmDSttBIGBXQ15
+Z4f/AORgsf8ArqP5GvU69fLsRUrwcp9GeRmOGp0KijT6oKKKK9A845HxzLJEll5cjplnztYjPArj
+vtdz/wA/M3/fw0UV8vmUmsTLXt+R9VlsU8NHTv8AmH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UVw80u5
+3csewfa7n/n5m/7+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4c
+sewfa7n/AJ+Zv+/ho+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B
+9ruf+fmb/v4aPtdz/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9r
+uf8An5m/7+Gj7Xc/8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5
++Zv+/ho+13P/AD8zf9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCf
+mb/v4aPtdz/z8zf9/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+
+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4csewfa7n/AJ+Zv+/h
+o+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B9ruf+fmb/v4aPtdz
+/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9ruf8An5m/7+Gj7Xc/
+8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5+Zv+/ho+13P/AD8z
+f9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCfmb/v4aPtdz/z8zf9
+/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8APzN/38NF
+FHNLuHLHsRMzOxZmLMepJyTSUUVJQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFAGl4f/AORgsf8ArqP5GvU6KK+hyf8AhS9f0Pnc5/ix9P1P/9k=
+--94eb2c09149c80af29053b00c85c
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Disposition: inline; filename="image003.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <156c8e73ccc6917eb2>
+X-Attachment-Id: 156c8e73ccc6917eb2
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAB0AokDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKym8T6Cjsjaz
+YKynBBuFyD+dN/4Snw//ANBvT/8AwJT/ABoA16KyP+Ep8P8A/Qb0/wD8CU/xo/4Snw//ANBvT/8A
+wJT/ABoA16KyP+Eq8P8A/Qb0/wD8CU/xrVR1kRXRgyMMqwOQRQA6iiigAooooAKKKKACiiigAooo
+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
+LsWPzVkIIzu3jbtAx6HNei0UAFct4Kh1LTrCTTL/AEua3Ec00i3BkRkkDSswwFJPQ9xXU0UAc74y
+sr290i2FhatdTQX0FwYldVLKjgnBYgZxW3ZTy3NpHNPayWsjD5oZGUsv1Kkj8jU9FAHF3OnapB8R
+JdTjsb+WzmigjD21yiR5UsG8xSQWA3Z4rs3XcjLkjIxkdqWigDgfC+l+JNJvNF014ZodPsIporth
+JGYZ+pjdR9/cScnOK6/XLaW80DUbWBd801tJGi5xlipAFX6KAOb8E299Z6FHZ39pf28kKouby4SY
+sdoB2lScKMdDXSUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQBz994ts7C9ltZIJi8ZwSAMGq/wDwnNh/z73H5D/GuX8Sf8jDef7/APQVlV85VzLE
+RqSins30PpKOWYeVOMmt0up3v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFZ/2pie6+40/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3noln4vs729htUgmDSttBIGBXQ15
+Z4f/AORgsf8ArqP5GvU69fLsRUrwcp9GeRmOGp0KijT6oKKKK9A845HxzLJEll5cjplnztYjPArj
+vtdz/wA/M3/fw0UV8vmUmsTLXt+R9VlsU8NHTv8AmH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UVw80u5
+3csewfa7n/n5m/7+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4c
+sewfa7n/AJ+Zv+/ho+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B
+9ruf+fmb/v4aPtdz/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9r
+uf8An5m/7+Gj7Xc/8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5
++Zv+/ho+13P/AD8zf9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCf
+mb/v4aPtdz/z8zf9/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+
+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4csewfa7n/AJ+Zv+/h
+o+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B9ruf+fmb/v4aPtdz
+/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9ruf8An5m/7+Gj7Xc/
+8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5+Zv+/ho+13P/AD8z
+f9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCfmb/v4aPtdz/z8zf9
+/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8APzN/38NF
+FHNLuHLHsRMzOxZmLMepJyTSUUVJQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFAGl4f/AORgsf8ArqP5GvU6KK+hyf8AhS9f0Pnc5/ix9P1P/9k=
+--94eb2c09149c80af29053b00c85c
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Disposition: inline; filename="image003.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <>
+X-Attachment-Id:
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAB0AokDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKym8T6Cjsjaz
+YKynBBuFyD+dN/4Snw//ANBvT/8AwJT/ABoA16KyP+Ep8P8A/Qb0/wD8CU/xo/4Snw//ANBvT/8A
+wJT/ABoA16KyP+Eq8P8A/Qb0/wD8CU/xrVR1kRXRgyMMqwOQRQA6iiigAooooAKKKKACiiigAooo
+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
+LsWPzVkIIzu3jbtAx6HNei0UAFct4Kh1LTrCTTL/AEua3Ec00i3BkRkkDSswwFJPQ9xXU0UAc74y
+sr290i2FhatdTQX0FwYldVLKjgnBYgZxW3ZTy3NpHNPayWsjD5oZGUsv1Kkj8jU9FAHF3OnapB8R
+JdTjsb+WzmigjD21yiR5UsG8xSQWA3Z4rs3XcjLkjIxkdqWigDgfC+l+JNJvNF014ZodPsIporth
+JGYZ+pjdR9/cScnOK6/XLaW80DUbWBd801tJGi5xlipAFX6KAOb8E299Z6FHZ39pf28kKouby4SY
+sdoB2lScKMdDXSUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQBz994ts7C9ltZIJi8ZwSAMGq/wDwnNh/z73H5D/GuX8Sf8jDef7/APQVlV85VzLE
+RqSins30PpKOWYeVOMmt0up3v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFZ/2pie6+40/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3noln4vs729htUgmDSttBIGBXQ15
+Z4f/AORgsf8ArqP5GvU69fLsRUrwcp9GeRmOGp0KijT6oKKKK9A845HxzLJEll5cjplnztYjPArj
+vtdz/wA/M3/fw0UV8vmUmsTLXt+R9VlsU8NHTv8AmH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UVw80u5
+3csewfa7n/n5m/7+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4c
+sewfa7n/AJ+Zv+/ho+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B
+9ruf+fmb/v4aPtdz/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9r
+uf8An5m/7+Gj7Xc/8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5
++Zv+/ho+13P/AD8zf9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCf
+mb/v4aPtdz/z8zf9/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+
+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4csewfa7n/AJ+Zv+/h
+o+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B9ruf+fmb/v4aPtdz
+/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9ruf8An5m/7+Gj7Xc/
+8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5+Zv+/ho+13P/AD8z
+f9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCfmb/v4aPtdz/z8zf9
+/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8APzN/38NF
+FHNLuHLHsRMzOxZmLMepJyTSUUVJQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFAGl4f/AORgsf8ArqP5GvU6KK+hyf8AhS9f0Pnc5/ix9P1P/9k=
+--94eb2c09149c80af29053b00c85c--
