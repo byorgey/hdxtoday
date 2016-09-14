@@ -7,9 +7,15 @@ import           Text.HTML.TagSoup
 import           Text.HTML.TagSoup.Match
 import           Text.StringLike
 
+import           Codec.MIME.Parse
+import           Codec.MIME.Type
+
 import           Control.Monad                (when)
 import qualified Data.ByteString              as BS
 import           Data.List                    (find, intercalate)
+import qualified Data.Text                    as T
+import qualified Data.Text.Encoding           as TE
+import qualified Data.Text.IO                 as TIO
 import           Data.Time
 import           Data.Time.Calendar
 import           System.IO                    (hFlush, stdout)
@@ -24,26 +30,35 @@ data Item = Item { itemTitle :: String, itemDescription :: String }
 data Seen = Seen { seenTitle :: String, lastSeen :: Day }
   deriving (Show, Read)
 
+mimeHTML :: MIMEValue -> [T.Text]
+mimeHTML (MIMEValue (Type (Text "html") _) _ (Single c) _ _) = [c]
+mimeHTML (MIMEValue _ _ (Multi vs) _ _) = concatMap mimeHTML vs
+mimeHTML _ = []
+
 mkItem :: [BS.ByteString] -> Item
 mkItem (title:rest) =
   Item (toString title) (concat . map toString $ rest)
 
 getItems :: FilePath -> IO ([Item], Maybe Day)
 getItems fn = do
-  raw <- BS.readFile fn
-  case QP.decode raw of
+  raw <- TIO.readFile fn
+  let [html] = mimeHTML $ parseMIMEMessage raw
+  case QP.decode (TE.encodeUtf8 html) of
     Left (parsed, leftovers) -> error "can't parse"
     Right parsed -> do
       let tags = parseTags parsed
           items = map mkItem
                 . (map . map) fromTagText
-                . filter ((>1) . length)
-                . takeWhile ((~/= tt "MENU") . head)
-                . map (filter (~/= tt "\160"))
+                . map (filter (~== TagText ("" :: BS.ByteString)))
+                . partitions (~== to "h2")
+                . takeWhile (~/= tt "MENU")
+                . concat
+                . map dropEmptyH2
+                . map (filter (~/= tc "u"))
+                . map (filter (~/= to "u"))
                 . map (filter (~/= tt "\r\n"))
-                . map (filter (~== tt ""))
-                . filter ((~/= tt "|") . (!!1))
-                . partitions (~== to "b")
+                . map (filter (~/= tt "\194\160"))
+                . partitions (~== to "h2")
                 $ tags
           mday = parseTimeM True defaultTimeLocale "%A, %B %-e, %Y"
                . toString
@@ -56,6 +71,14 @@ tt = TagText
 
 to :: BS.ByteString -> Tag BS.ByteString
 to s = TagOpen s []
+
+tc :: BS.ByteString -> Tag BS.ByteString
+tc = TagClose
+
+dropEmptyH2 :: StringLike str => [Tag str] -> [Tag str]
+dropEmptyH2 (a:b:cs)
+  | a ~== to "h2" && b ~== tc "h2"  = cs
+dropEmptyH2 tags = tags
 
 hasMonthName :: BS.ByteString -> Bool
 hasMonthName s = any (\m -> m `BS.isInfixOf` s) monthNames
