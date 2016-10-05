@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PACKAGES="sandi tagsoup"
+PACKAGES="sandi tagsoup mime"
 
 cabal update || exit 1
 cabal sandbox init || exit 1
