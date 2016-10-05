@@ -42,29 +42,32 @@ mkItem (title:rest) =
 getItems :: FilePath -> IO ([Item], Maybe Day)
 getItems fn = do
   raw <- TIO.readFile fn
-  let [html] = mimeHTML $ parseMIMEMessage raw
-  case QP.decode (TE.encodeUtf8 html) of
-    Left (parsed, leftovers) -> error "can't parse"
-    Right parsed -> do
-      let tags = parseTags parsed
-          items = map mkItem
+  let htmls = mimeHTML $ parseMIMEMessage raw
+  print (length htmls)
+  let [html] = htmls
+  -- case html) of
+  --   Left (parsed, leftovers) ->
+  --     error $ unlines ["can't parse:", show parsed, show leftovers]
+  --   Right parsed -> do
+      tags = parseTags (TE.encodeUtf8 html)
+      items = map mkItem
                 . (map . map) fromTagText
                 . map (filter (~== TagText ("" :: BS.ByteString)))
                 . partitions (~== to "h2")
                 . takeWhile (~/= tt "MENU")
                 . concat
                 . map dropEmptyH2
-                . map (filter (~/= tc "u"))
-                . map (filter (~/= to "u"))
-                . map (filter (~/= tt "\r\n"))
-                . map (filter (~/= tt "\194\160"))
+                . filterTags [tt "\194\160", tt "\195\130\194\160", tt "\r\n", to "u", tc "u"]
                 . partitions (~== to "h2")
                 $ tags
-          mday = parseTimeM True defaultTimeLocale "%A, %B %-e, %Y"
+      mday = parseTimeM True defaultTimeLocale "%A, %B %-e, %Y"
                . toString
                . fromTagText
                . head . filter (tagText hasMonthName) $ tags
-      return (items, mday)
+  return (items, mday)
+
+filterTags :: [Tag BS.ByteString] -> [[Tag BS.ByteString]] -> [[Tag BS.ByteString]]
+filterTags = foldr (.) id . map (\tag -> map (filter (~/= tag))) . reverse
 
 tt :: BS.ByteString -> Tag BS.ByteString
 tt = TagText
