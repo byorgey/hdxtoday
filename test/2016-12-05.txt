@@ -1,0 +1,626 @@
+Delivered-To: byorgey@gmail.com
+Received: by 10.182.107.197 with SMTP id he5csp184961obb;
+        Mon, 5 Dec 2016 08:31:26 -0800 (PST)
+X-Received: by 10.157.18.171 with SMTP id g40mr35545977otg.273.1480955486036;
+        Mon, 05 Dec 2016 08:31:26 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: found no external ips, assuming domain of prstu2@hendrix.edu as permitted sender) smtp.mailfrom=prstu2@hendrix.edu
+Received-SPF: pass (google.com: found no external ips, assuming domain of prstu2@hendrix.edu as permitted sender)
+Received: by 10.202.75.131 with POP3 id y125mf156058103oia.0;
+        Mon, 05 Dec 2016 08:31:25 -0800 (PST)
+X-Gmail-Fetch-Info: yorgey@hendrix.edu 1 outlook.office365.com 995 yorgey@hendrix.edu
+Received: from CY1PR05MB2345.namprd05.prod.outlook.com (10.166.192.155) by
+ BL2PR05MB2339.namprd05.prod.outlook.com (10.167.99.135) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.771.4 via Mailbox Transport; Mon, 5 Dec 2016 15:51:13 +0000
+Received: from CO2PR0501MB885.namprd05.prod.outlook.com (10.141.247.152) by
+ CY1PR05MB2345.namprd05.prod.outlook.com (10.166.192.155) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.771.4; Mon, 5 Dec 2016 15:51:11 +0000
+Received: from CO2PR0501MB885.namprd05.prod.outlook.com (10.141.247.152) by
+ CO2PR0501MB885.namprd05.prod.outlook.com (10.141.247.152) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.761.5; Mon, 5 Dec 2016 15:50:45 +0000
+Received: from CO2PR0501MB885.namprd05.prod.outlook.com ([10.141.247.152]) by
+ CO2PR0501MB885.namprd05.prod.outlook.com ([10.141.247.152]) with mapi id
+ 15.01.0761.016; Mon, 5 Dec 2016 15:50:45 +0000
+From: Communications <prstu2@hendrix.edu>
+To: Hendrix Today <HToday@hendrix.edu>
+Subject: Hendrix Today: Monday, Dec. 5
+Thread-Topic: Hendrix Today: Monday, Dec. 5
+Thread-Index: AdJPDzxAhFmnINfTShO6pI4/fec5uQ==
+Date: Mon, 5 Dec 2016 09:50:44 -0600
+Message-ID:
+	<CO2PR0501MB8858A7319DAB735BDDF86FE86830@CO2PR0501MB885.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+	CO2PR0501MB885.namprd05.prod.outlook.com
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+	dbc7f47c-71a5-42d2-667f-08d41d2679a9
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2PR05MB2339;9:eKIR0KmML9WmTKaTEN7/fpz4ZYQGhlxAFFWGhQgQqRy4v3X7ayRq74j/MJqzfgwYeNLrewVNOgYqTF8RsisReqnq1sQX2nhd2zfXT13hXqv8TZsZOA/mz7KwBi4MsnXHmbqAXNbwpj0pIsoEM/teI2/hBnuXvEY4e6Q5RkyQ2kvXSITCHNLWq23mWBE1Uny7ksujCp0bz6sURXYCLdyNfw==
+Content-Type: multipart/related;
+	boundary="_003_CO2PR0501MB8858A7319DAB735BDDF86FE86830CO2PR0501MB885na_";
+	type="text/html"
+MIME-Version: 1.0
+
+--_003_CO2PR0501MB8858A7319DAB735BDDF86FE86830CO2PR0501MB885na_
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2PR05MB2339;9:eKIR0KmML9WmTKaTEN7/fpz4ZYQGhlxAFFWGhQgQqRy4v3X7ayRq74j/MJqzfgwYeNLrewVNOgYqTF8RsisReqnq1sQX2nhd2zfXT13hXqv8TZsZOA/mz7KwBi4MsnXHmbqAXNbwpj0pIsoEM/teI2/hBnuXvEY4e6Q5RkyQ2kvXSITCHNLWq23mWBE1Uny7ksujCp0bz6sURXYCLdyNfw==
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:13.5pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	color:#F5822A;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-link:"Subtitle Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	color:#F5822A;
+	letter-spacing:.75pt;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-name:"No Spacing\,Normal_hdx";
+	mso-style-priority:1;
+	mso-style-link:"No Spacing Char\,Normal_hdx Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:13.7pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Trebuchet MS",sans-serif;
+	color:#F5822A;
+	font-weight:bold;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-priority:11;
+	mso-style-link:Subtitle;
+	font-family:"Trebuchet MS",sans-serif;
+	color:#F5822A;
+	letter-spacing:.75pt;}
+span.NoSpacingChar
+	{mso-style-name:"No Spacing Char\,Normal_hdx Char";
+	mso-style-priority:1;
+	mso-style-link:"No Spacing\,Normal_hdx";
+	font-family:"Trebuchet MS",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1027" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal"><img width="649" height="116" id="Picture_x0020_5" src="cid:image003.jpg@01D24EDD.089DBD60"><o:p></o:p></p>
+<p class="MsoSubtitle" style="margin-left:13.5pt"><o:p>&nbsp;</o:p></p>
+<p class="MsoSubtitle" style="margin-left:13.5pt"><a href="#_EVENTS"><span style="color:#F5822A">EVENTS</span></a>
+<b>|</b> <a href="#_ANNOUNCEMENTS"><span style="color:#F5822A">ANNOUNCEMENTS</span></a>
+<b>|</b> <a href="#_MEETINGS"><span style="color:#F5822A">MEETINGS</span></a> | <a href="#_MENU">
+<span style="color:#F5822A">MENU</span></a> <b>|</b> <a href="#_LOST_&amp;_FOUND"><span style="color:#F5822A">LOST &amp; FOUND</span></a>
+<b>|</b> <a href="https://www.hendrix.edu/hendrixtoday"><span style="color:#F5822A">SUBMISSIONS</span></a>&nbsp;&nbsp;
+<o:p></o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><span style="font-family:&quot;Trebuchet MS&quot;,sans-serif">Monday, December 05, 2016</span><span style="font-family:&quot;Trebuchet MS&quot;,sans-serif"><o:p></o:p></span></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Today is the last issue of Hendrix Today for the semester!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><a name="_EVENTS"></a><b><span style="font-size:14.0pt;color:black">EVENTS<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><o:p></o:p></p>
+<h2>Dueling Emotions or Conflicting Beliefs with Dr. Michelle See<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Are you interested in research on attitudes and persuasion? Monday, Dec. 5, Dr. Michelle See from the National University of Singapore, who happens to be Dr. Zorwick's sister-in-law, will be giving a talk on the possible consequences
+ of holding conflicting emotions and/or beliefs about a given topic. The talk will be held in D.W. Reynolds 10 at 4:10 p.m. &#8212; 5 p.m. See you there!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Share the Love (Letters)<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Take a second to breathe and craft at the &#8220;Share the Love (Letter)&#8221; event. Stop by the back of the Burrow Monday, Dec. 5, from 5 p.m. &#8212; 6:30 p.m. for snacks and to play with markers, cards, stickers and more. Write a random note of kindness
+ or a note to a friend. These notes will go in campus mailboxes during finals week and are aimed at encouraging one another through stressful times. Email
+<a href="mailto:FarrisDG@hendrix.edu">FarrisDG@hendrix.edu</a> with any questions&#8212;see you Monday!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Worship Event<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Join Christian campus ministries for combined worship Monday, Dec. 5, at 7:30 p.m. in Reves Recital Hall. Sponsors include Athletes in Action, Baptist College Ministries, Reformed University Fellowship, Catholic Campus Ministries, and
+ the HDX Chaplain's Office. Snacks and drinks will be provided after worship. For more information, contact the Office of the Chaplain at
+<a href="mailto:whitney@hendrix.edu">whitney@hendrix.edu</a>.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Free Bowling Night<span style="font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Knock those finals out with some free bowling! Monday, Dec. 5, from 8:30 p.m. &#8212;&nbsp; 11p.m. you can bowl for free at Conway Family Bowl with your student ID!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Holiday Bazaar<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Take a break from studying and stop by Campus Kitty's Annual Holiday Bazaar in the Burrow from 10 a.m. &#8212; 5 p.m. Tuesday, Dec. 6. With more than 30 local vendors, it is the perfect time to get started on your Holiday shopping! Come support
+ Campus Kitty and find a few great gifts in the process.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>BioBlitz<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Join ECC on reading day Tuesday, Dec. 6, for a walk around campus to explore the natural beauty our campus has to offer! Take a study break, get some fresh air, and share your favorite pretty spots or little critters on campus. We will
+ meet at the Atlus bell at 3 p.m. <o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>A Concert by Arkansas Symphony Orchestra Principal French Hornist David Renfro with the Rockefeller String Quartet &#8211; New Location!<span style="font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The Music Department presents a concert by Arkansas Symphony Orchestra Principal French Hornist David Renfro with the Rockefeller String Quartet of the Arkansas Symphony Orchestra at 7:30 p.m. Monday, Dec. 5, in Staples Auditorium. The
+ program includes the Quintet for French Horn and Strings in E-Flat Major, K. 407 by Mozart, String Quartet No. 2 in D Major by Alexander Borodin, and String Quartet No. 1, Op. 10 by Debussy. The concert is free, the public is invited and no reservations are
+ necessary. For more information, contact Dr. Griebling in the Music Department at (501) 450 1240 or
+<a href="mailto:griebling@hendrix.edu">griebling@hendrix.edu</a>.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Drive by Press Nomadic American Printmaking - Group Show<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Drive by Press is coming to Hendrix! They will have a group show of prints. DBP is a collaborative print experience on wheels. They call themselves &#8220;Missionaries of Print&#8221; as they travel the nation with their 200 pound, 14th-century-style
+ printing press loaded up in a 21st-century vehicle. DBP has exhibited thousands of prints nationwide, producing more than 50,000 pieces of wearable art along the way.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Show Dates: Monday, Nov.14 &#8212; Tuesday, Dec. 6 <o:p></o:p></p>
+<p class="MsoNoSpacing">Location: Art A Lobby<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Taco Lunch at the Cashier's Window<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Wednesday, Dec. 7, the Cashier's Window in Fausett Hall will be turning into a Food Truck. Stop by during the hours of 11a.m. &#8212; 1 p.m. for some inexpensive food. Two versions of tacos will be served. Funds will benefit the Simon Book
+ Fund. Hope to see you there!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Anime Movie Monthly<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Need a Break from Studying then come watch &quot;My Neighbor Totoro&quot; with Anime Club Tuesday, Dec. 6, (Reading Day) in Mills B at 8 p.m. &quot;My Neighbor Totoro&quot; is a story about two young girls and their adventures discovering the magical forest
+ and creatures behind their new home.&nbsp; Hope to see you there =^.^=<span style="font-family:&quot;Courier New&quot;"><o:p></o:p></span></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><b><span style="font-size:14.0pt;color:black">ANNOUNCEMENTS<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Murphy House Study Hall<o:p></o:p></h2>
+<p class="MsoNoSpacing">Looking for a quiet and cozy place to study? Come to the Murphy House study hall today and Wednesday from 6 p.m. &#8212; 9 p.m.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>The Writing Center<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The Writing Center is an excellent resource for working on your writing with a peer tutor. Any project, at any stage, on any subject. The Center is in the Snoddy Resource Center in Bailey Library. It is open Monday &#8212; Thursday, from 1
+ p.m. &#8212; 5 p.m. and 6 p.m. &#8212; 10 p.m., and on Sunday, 6 p.m. &#8212; 10 p.m. Appointments are encouraged; drop-ins are welcome. Contact Felipe Pruneda Senties if you have questions or you want to make an appointment at
+<a href="mailto:pruneda@hendrix.edu">pruneda@hendrix.edu</a> or 501-505-1560. Visit the website for more information.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Submit Your Work to <i>The Aonian</i><o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Hendrix&#8217;s student literary and arts magazine, the Aonian, is now taking submissions for the 2017 issue. We accept works in the genres of poetry, fiction, nonfiction, and visual art. There is a limit of five pieces per genre per person.
+ All submissions are accepted electronically via email at <a href="mailto:aonian2017@gmail.com">
+aonian2017@gmail.com</a>. The deadline to submit for the fall semester is Monday, Dec. 5. To learn more about submission guidelines, click the
+<a href="https://hendrixaonian.wordpress.com/submission-guidelines/">link</a>. <o:p>
+</o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2><span style="background:white">Spring 2017 Wind Ensemble Auditions<o:p></o:p></span></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The Wind Ensemble will be holding auditions for new members from Jan. 18 &#8212; 19, 2017. Audition excerpts will be available on the Wind Ensemble
+<a href="https://www.hendrix.edu/music/windensemble/">website</a> on or before Thursday, Dec. 1. Email the conductor, Dr. Gretchen Renshaw at renshaw@hendrix.edu, to schedule your audition time or to ask questions.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Student and Alumni Playwriting Contest<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Are you a playwright with a project to share? The Hendrix-Murphy Foundation&#8217;s Student and Alumni Playwriting Contest is accepting 10 minute, one act, and full length plays, with no restrictions on subject or style. A $300 First Place
+ Award and $100 Second Place Award will be offered. The deadline is Friday, Dec. 9. Contact
+<a href="mailto:vanaman@hendrix.edu">vanaman@hendrix.edu</a> or drop by Murphy House for more information.
+<span style="font-family:&quot;Courier New&quot;"><o:p></o:p></span></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Bonhoeffer House for Spring Semester<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Located in Brown, Bonhoeffer House is on-campus opportunity for students who would like to engage the Christian practice of communal living which focuses on personal and communal prayer, theological discussion, fellowship, and service.
+ Communal living has been a spiritual practice among Christians since the formation of the church. Due to students studying abroad, some spots are open in Brown for the spring semester. For more information, contact Rev. J.J. Whitney at
+<a href="mailto:whitney@hendrix.edu">whitney@hendrix.edu</a> by Monday, Dec. 12.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2><span style="background:white">Chinese Summer Language Institute<o:p></o:p></span></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The Chinese summer program in 2017 is still accepting applications. The program is fully funded by the Hendrix-Murphy Foundation, and you will only need to pay for the flight and VISA. If you have taken Chinese, you are eligible to apply
+ for it. If you are interested, please contact Dr. Liu (<a href="mailto:liuw@hendrix.edu">liuw@hendrix.edu</a>) for more detailed information. The deadline to apply is Thursday, Dec. 15, the end of this semester.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Seeking Reliable Models for an Intermediate Figure Drawing Course<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Ideal models will be comfortable in their bodies. Models will be nude or lightly clothed. Only one model will be in the studio per drawing session. All poses are strictly non-provocative and non-sexualized.<span style="font-family:&quot;Courier New&quot;"><o:p></o:p></span></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The course will focus on the representation of a variety of bodies- lean, large, muscular, feminine, masculine, androgynous, youthful, and wrinkled, with a variety of skin tones. Students will be taught to empathize with the diversity,
+ complexity, and beauty of the human form.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Must be available MWF 10 a.m. &#8212; noon for 2-4 weeks during the January-April semester. Pay is $12 an hour. Direct deposit only. Hired models are required to complete an employment form and provide copies of their SS card and driver&#8217;s
+ license or passport.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">To apply, or ask questions about the position, send an email to Melissa at
+<a href="mailto:melissacs@uca.edu">melissacs@uca.edu</a> or <a href="mailto:cowper-smith@hendrix.edu">
+cowper-smith@hendrix.edu</a>.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Arkansas Governor's School Teaching Opportunities<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">AGS is currently accepting applications for faculty positions at AGS 2017, June 7 &#8212; July 22, in various teaching disciplines. Applications will be accepted through January 9. Visit the AGS website by clicking the
+<a href="http://www.hendrix.edu/ags/faculty/">link</a> for more information or contact Tim Purkiss, Administrative Manager, at 501-450-1279 or
+<a href="mailto:ags@hendrix.edu">ags@hendrix.edu</a>, or Lyle Rupert, Director, at 501-450-1237 or
+<a href="mailto:rupert@hendrix.edu">rupert@hendrix.edu</a>.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Pickering Foreign Affairs Fellowship Program<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The Thomas R. Pickering Fellowship Program is designed to attract outstanding college students from all ethnic, racial and social backgrounds who demonstrate strong leadership and academic excellence, possess a passion for public service,
+ and have an interest in pursuing a foreign service career with the U.S. Department of State. This competitive fellowship provides undergraduate and graduate students with financial support (up to $37,500 annually), mentoring and professional development to
+ prepare them academically and professionally for this rewarding career path. Women, members of minority groups historically underrepresented in the foreign service, and students with financial need are encouraged to apply. More information is available
+<a href="http://www.twc.edu/pickering">online</a>. The application deadline is January 13, 2017. Interested students should begin work on their application as soon as possible to ensure all required components are submitted and received well before this deadline.
+ Email <a href="mailto:gess@hendrix.edu">gess@hendrix.edu</a> to arrange an appointment to begin this process.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Ultimate Frisbee Club Practice<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Do you like cool things? Do you like the musical stylings of T-Pain? If you answered yes to either of these questions, then come on out to Ultimate Frisbee every Tuesday and Thursday from 7 p.m. &#8212; 9 p.m. on the women's field hockey field.
+ We still want you if you answered no to either!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Arkansas Governor&#8217;s School Staff Positions<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">AGS is currently accepting applications for staff positions at AGS 2017, June 5 &#8211; July 22, in Residential Life and the Office. Applications will be accepted through February 20.&nbsp; Visit the AGS website by clicking the
+<a href="http://www.hendrix.edu/ags/staff/">link </a>&nbsp;for more information or contact Tim Purkiss, Administrative Manager, at 501-450-1279 or
+<a href="mailto:ags@hendrix.edu">ags@hendrix.edu</a>, or Lyle Rupert, Director, at 501-450-1237 or
+<a href="mailto:rupert@hendrix.edu">rupert@hendrix.edu</a>.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Sign-Up for Activate Men<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Activate Men is a student organization whose goal is to increase campus safety with an emphasis on combating sexual assault. If you are interested in working with this group to make our campus a safer place, please click the
+<a href="https://goo.gl/forms/Ux6VrNe7YwI5vuJJ3">link</a> to sign up. <span style="font-family:&quot;Times New Roman&quot;,serif">
+<o:p></o:p></span></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><b><span style="font-size:14.0pt;color:black">MEETINGS<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Odyssey Trip: Peace, War, and memory in Japan and Korea<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">This spring May 11 &#8212; May 25, Dr. Michael Sprunger will lead a GA Odyssey trip exploring the significance of collective and individual memories of war and peace in contemporary Japan and South Korea. In addition to touring and interrogating
+ commemorative sites, participants will have opportunities to engage public officials, activists, participants/survivors and peers about the ongoing significance of World War II and the Korean War to current politics and everyday life in and between the two
+ countries. If you are interested in applying for the trip, please come to an information session with Dr. Sprunger Monday, Dec. 5, at 4:10 p.m. in Mills C. Contact
+<a href="mailto:sprunger@hendrix.edu">sprunger@hendrix.edu</a> with any questions.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Holiday Book Exchange<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">The Bailey Library Book Club is hosting a book exchange Tuesday, Dec. 6, from 4 p.m. &#8212; 6 p.m. in the Learning Commons at Bailey Library. We will have a drop off box for the books in the library and ask that you drop your book off there
+ on or before Monday, Dec. 5, if you plan on attending. Ten books will have $5 Starbucks cards inserted in them and all the books will be wrapped before the meeting. There will be food and plenty of time for book swapping! Any questions email:
+<a href="mailto:CumbieEE@Hendrix.edu">CumbieEE@Hendrix.edu</a> or <a href="mailto:BrittonBH@Hendrix.edu.%0d">
+BrittonBH@Hendrix.edu.</a><span class="MsoHyperlink"><o:p></o:p></span></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Sword Club Meetings<span style="font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Meet with Sword Club Tuesdays from 7 p.m. &#8212; 9 p.m. in the Brick Pit and Fridays from 3:30 p.m. &#8212; 5 p.m. in the Pecan Grove! Meetings are open to all students with no commitment required!<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><a name="_MENU"></a><b><span style="font-size:14.0pt;color:black">MENU<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Lunch<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Italian Breaded Chicken<o:p></o:p></p>
+<p class="MsoNoSpacing">Korean Beef Tips over Rice<o:p></o:p></p>
+<p class="MsoNoSpacing">Greek Pasta Salad (Lacto Vegetarian) (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Sesame Tofu w/Asparagus (Vegan) (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Au Gratin Potatoes (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
+<h2>Pancake Dinner&nbsp; <o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Pancakes (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Scrambled Eggs (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Sausage<o:p></o:p></p>
+<p class="MsoNoSpacing">Bacon<o:p></o:p></p>
+<p class="MsoNoSpacing">Veggie Bacon &amp; Sausage (Lacto-Ovo Vegetarian) (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Grits (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Oatmeal (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Hashbrowns (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Biscuits &amp; Gravy (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Veggie Biscuits &amp; Gravy (Vegan) (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing">Bagels (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>Vegetables (MM)<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Corn<o:p></o:p></p>
+<p class="MsoNoSpacing">Green Beans<o:p></o:p></p>
+<p class="MsoNoSpacing">Broccoli<o:p></o:p></p>
+<p class="MsoNoSpacing">Black Beans<o:p></o:p></p>
+<p class="MsoNoSpacing">Tuscan Blend<o:p></o:p></p>
+<p class="MsoNoSpacing">Brussels Sprouts<o:p></o:p></p>
+<p class="MsoNoSpacing">Ratatouille<o:p></o:p></p>
+<p class="MsoNoSpacing">Black-eyed Peas<o:p></o:p></p>
+<p class="MsoNoSpacing"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
+<h2>Soups<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Chicken Noodle<o:p></o:p></p>
+<p class="MsoNoSpacing">French Onion<o:p></o:p></p>
+<p class="MsoNoSpacing">Roasted Corn&amp; Red Pepper Chowder<o:p></o:p></p>
+<p class="MsoNoSpacing">Tomato (Vegan) (MM)<o:p></o:p></p>
+<p class="MsoNoSpacing"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
+<h2>World's Fare (MM)<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Alfredo Sauce<o:p></o:p></p>
+<p class="MsoNoSpacing">Spicy Mushroom Sauce<o:p></o:p></p>
+<p class="MsoNoSpacing"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
+<h2>Featured Pizza of the Day<o:p></o:p></h2>
+<p class="MsoNoSpacing">Southwest Black Bean (Vegan) (MM)<!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+<v:stroke joinstyle="miter" />
+<v:formulas>
+<v:f eqn="if lineDrawn pixelLineWidth 0" />
+<v:f eqn="sum @0 1 0" />
+<v:f eqn="sum 0 0 @1" />
+<v:f eqn="prod @2 1 2" />
+<v:f eqn="prod @3 21600 pixelWidth" />
+<v:f eqn="prod @3 21600 pixelHeight" />
+<v:f eqn="sum @0 0 1" />
+<v:f eqn="prod @6 1 2" />
+<v:f eqn="prod @7 21600 pixelWidth" />
+<v:f eqn="sum @8 21600 0" />
+<v:f eqn="prod @7 21600 pixelHeight" />
+<v:f eqn="sum @10 21600 0" />
+</v:formulas>
+<v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" />
+<o:lock v:ext="edit" aspectratio="t" />
+</v:shapetype><v:shape id="Rectangle_x0020_6" o:spid="_x0000_s1026" type="#_x0000_t75" alt="https://www.hendrix.edu/diningservices/default.aspx?id=1003" style='width:40.75pt;height:21.75pt;visibility:visible;mso-left-percent:-10001;mso-top-percent:-10001;mso-position-horizontal:absolute;mso-position-horizontal-relative:char;mso-position-vertical:absolute;mso-position-vertical-relative:line;mso-left-percent:-10001;mso-top-percent:-10001'>
+<w:wrap type="none"/>
+<w:anchorlock/>
+</v:shape><![endif]--><![if !vml]><img width="54" height="29" src="cid:image004.png@01D24EDD.089DBD60" alt="https://www.hendrix.edu/diningservices/default.aspx?id=1003" v:shapes="Rectangle_x0020_6"><![endif]><o:p></o:p></p>
+<p class="MsoNoSpacing">Chicken Bacon Ranch<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><b><span style="font-size:14.0pt;color:black">LOST &amp; FOUND<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt">If you have lost or found something, stop by the Lost and Found at the Information Desk on the first floor of the SLTC.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<h2>SoCo 54 Lost and Found<o:p></o:p></h2>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNoSpacing">Did you party a little too hard and leave something behind at SoCo 54? All lost and found from the party has been turned into the info desk, so stop by there if you are missing anything.<o:p></o:p></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:13.5pt"><a name="_SUBMISSIONS"></a><b><span style="font-size:14.0pt;color:black">SUBMISSIONS<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-indent:13.5pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Hendrix Today is brought to you by the Office of Marketing Communications. Submit Hendrix Today items
+</span><a href="https://www.hendrix.edu/hendrixtoday">here</a><span style="font-family:&quot;Verdana&quot;,sans-serif">.
+<span style="color:#F79646">&nbsp;</span></span><o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_003_CO2PR0501MB8858A7319DAB735BDDF86FE86830CO2PR0501MB885na_
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2PR05MB2339;9:eKIR0KmML9WmTKaTEN7/fpz4ZYQGhlxAFFWGhQgQqRy4v3X7ayRq74j/MJqzfgwYeNLrewVNOgYqTF8RsisReqnq1sQX2nhd2zfXT13hXqv8TZsZOA/mz7KwBi4MsnXHmbqAXNbwpj0pIsoEM/teI2/hBnuXvEY4e6Q5RkyQ2kvXSITCHNLWq23mWBE1Uny7ksujCp0bz6sURXYCLdyNfw==
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Description: image003.jpg
+Content-Disposition: inline; filename="image003.jpg"; size=9439;
+	creation-date="Mon, 05 Dec 2016 15:50:41 GMT";
+	modification-date="Mon, 05 Dec 2016 15:50:41 GMT"
+Content-ID: <image003.jpg@01D24EDD.089DBD60>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAB0AokDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKym8T6Cjsjaz
+YKynBBuFyD+dN/4Snw//ANBvT/8AwJT/ABoA16KyP+Ep8P8A/Qb0/wD8CU/xo/4Snw//ANBvT/8A
+wJT/ABoA16KyP+Eq8P8A/Qb0/wD8CU/xrVR1kRXRgyMMqwOQRQA6iiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooA8Ou/AngOa9uJZY9Z8ySRmbbMmMk5OOKh/4V/4A/wCeet/9/wBP
+/ia1p/8Aj4l/3z/On4hEdsQRuJPm98DPHH0r5n+08Td6r7j6f+zMNZaP7zG/4V/8P/8Annrf/f8A
+T/4mj/hX/wAP/wDnnrf/AH/T/wCJroJPs0uoRCFB5RADKScDk554zxTUNmYZwdysXJQg/wAOOB+d
+V/aOJv8AEif7Ow9vhf3mA3w++H5Ugx63gj/nun/xNe36fHFFptrHDu8pIUVN3XaAMZ968iP3T9K9
+esP+Qda/9cl/kK78uxdWvKSqdDgzLCUqEYun1G6jLewWMkmn2qXVyMbIXl8sN/wLBxXl+sfGi50H
+WJNJ1HwrPHeoQDGtyrZz0wQOc161Xzj8UP8Aktlr/vWf/oQr1Tyke76Df6xqEDy6rpC6bkAxp9oE
+rHPXOBx+tashdYnMahnCkqpOAT2GadRQI8w8S/FTU/CE8EOteFmjadS0bRXiurY684rZ0Px1dX2n
+QavrGlw6No86Ziubi7BZifu/KB0Iyck9q4P9ob72hfSX/wBlr1TwhGkngfRUdFZTZRZVhkfdFAyM
+ePPCR6eI9N/8CF/xpD4/8Ir18R6aP+3ha8i+HFna/wDC6tctzbxGFPtAWMoCo+cdBXt134f0a/t3
+gutKs5YnGCrQr0/KgRUPjTwyttFctrtgsExYRyNOoVsHBwT6Gr2ma3petRyPpeoW14sZ2uYJA+0+
++KwfC3gy10fw1caHe2kE9p9qnaFJAH/dOxKg574NeCaXNrfw/wBSHiXTULaW15NZuuflcI5Gx/Q4
+5BoA+qKytU8S6LokyRapqdtaO67lEz7cjpSeHPEWn+KNFh1TTpd8Ugwyn70bd1YdiKt6nptpqthP
+aXlvHNFKhQq6g9RQBlp458KyZ2eINObAycXC8fXmkPjnwoP+Zj0w/S6Q/wBa5n4O6PZW3gLcLeNn
+nuZxKzICXCuUAPthelcP8G7S2b4i+I4Wt4mijSQIrICFAmwMUDPZ7TxX4ev5PLtNc06eT+5HcoT+
+Wa1sgjIPFYOseCfDevW7Q3+j2r56SJGEdT6hhzmvLbnU9b+DniW3tLm7n1Lwtdn90JjueIDqAfUZ
+zjoR6UCPUH8d+FI2Kv4g05WHBVpwCPwoh8d+E55BHH4i0wuegNyoz+ZryL48/Yp28P39msRW5ikY
+Soo+dflI579a9mfw7ouoaakF3pNlLG8YDK0C+n0oA1YpY5o1kikWRG5DIcg/jWbqXibQ9HuRb6lq
+tpaTFQwWaQKSD35+hryHwzJc+BvjRN4Vsp5X0a7b5Ld2LCPcm5SPQg8e4r0f4lW0E/w81xpYY3KW
+rMpZQSpHIIoA0rXxf4cvrqO1tNbsLieQ7UjinVmJ+gpreMvDKSPG+v6akiMVZGuUBUjqCCa4T4CW
+luPBd1dCFPtD3zqZNo3EBUwM+nJ/Ot34j/D208XaLJJawRRavAC8EwUAyH+4x7g/oaAOp07X9I1e
+V4tN1K1vHjG5xBKH2j3xUmpavp2jxJLqV9BaRu21XncICfqa8p+Cvi2NYJPCGoxLbX9ozeRlQpkA
+PzIf9pT+n0rsvH2qN/Z6eHNPhjudY1cNDBE4yI06PK3oqjP40Aa0PjHw1c3Edvb69p000jBUjjuF
+ZiT7A1t1znhHwXpHg/SYbSyt0acKPNuWUeZK3ck+ntXR0AFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFZl/4i0TSrlbbUdYsLSdlDLHcXKRsQe+Cc4rT7ZoA
+KKzLDxHoeq3JttO1iwu5wpYx29yjsAOpwDmnaj4g0XSJUi1PVrGykddypc3CRlh6gMRxQBo0VmWn
+iTQr84s9Z0+4JOAIrpG/ka06ACisu/8AEmhaVc/ZtR1nT7OfaG8u4uUjbB6HBPStGOSOaJJYnV43
+UMrqchgehB7igB9FZMHinw9dXq2VvrmmzXTMUWCO6RnLDttBzmtagAoqhqWuaTo5jGp6nZ2XmZ2f
+aZ1j3Y643EZqh/wm/hP/AKGbR/8AwOj/APiqAN6isWDxh4Zup44LfxDpUs0jBUjjvI2ZiegAB5Na
+8kscMTSyuscajLMxwAPc0APorkpfif4Ihufs7+JbDzP9l9y/99AY/WuksdQs9TtEurC6hurd/uyw
+uHU/iKALNFISACScAdTWH/wmvhUttHiXR92cY+2x/wCNAG7RVe1vrO9UtaXUFwo6mKQOP0qxQAUV
+DdXVvY2slzdzxW9vGMvLK4VVHqSeBVbTdc0nWDINM1SyvTHjeLadZNuemdpOKAL9FZmoeI9E0mcQ
+alrFhZzMu4R3FykbEeuCelaEM0VzBHPBIksUihkdGBVgehBHUUAPorN1HxFomkTrDqWsWFnKy7lS
+4uUjYj1wT0qD/hLvDf8A0H9M/wDAtP8AGgDgbbT59T1VrW3A3s7Ek9FGepqbWtDuNFlQSMJIn+5I
+Bjn0NdL4Ythb+INXjIG5GwD7Ek/4Vc8ZIr6F8wziZMe3avnY4GLwsqj+JX/A+jeOmsVGkvhdvxOZ
+tfCd9daV9tVlVmG6OI9WX69vas7S9KuNWvfs0OF28uzdEFeqRALCigYAUACsDw3Gi6prhVQMXW0Y
+9Oa3nltJTpxXXf7rmFPM6rhUk+m332OM1nR59GufKlIdGGY5B0Yf0Nem2H/IOtf+uS/yFc/43i82
+wtABlzOFH4iukgj8m3ji/uKF/IV0YPDqjiKkY7aHPjMQ62HpylvqSV82/FiR4fjFFLHEZXjFqyxr
+1cg5AH16V9JV84/FD/ktlp/vWf8A6EK9M8xHpP8AwsHxP/0TrVv+/q/4Uf8ACwvE/wD0TrVv+/q/
+4V6LRQI+a/i74g1PXf7L/tLw7d6P5Qk2faGB8zOM4x6V7x4N/wCRK0T/AK8ov/QRXlP7Q3XQv+2v
+/stereDf+RK0T/ryi/8AQRQM8O8Land6T8Y9eubLSbnVJd9wvkW7KGA3j5vmIGP8a9Ct/Fus6x8R
+ND0290G+0W2VJ5v9If8A17BMAfLwQM5xzXIfDn/kuevf9vP/AKGK9uu9Mt729sbuXd5tlI0kRU45
+KlTn2waALledfD7S7PWvA2radqECzWs+qXiujf8AXQ8j0PvXffbLf7d9i85ftIj83ys/NszjP0zx
+XGfCk58MX5H/AEFrv/0YaBHlzDWfgn4z3L5l1oV434TJ/SRf1/GvftJ1ay1zSoNR0+dZrWddyOP5
+H0I9Kr+IvD2n+J9Gn0vUYt8Mg4YfejbsynsRXhei6rrHwb8YSaRqwefRblt25Rwy9BKnuP4h/wDW
+oGepfCf/AJEKH/r6uf8A0c9effBr/kpnif8A3Zf/AEdXoHwkdZPh/bSIcq9zcMp9QZWIrz/4Nf8A
+JTPE3+7L/wCjqAPeK81+OVpHP8PGnZQZLe6idD6ZO0/oa9KryH4662h0mx8NWv76+vZ1kMKcsFX7
+vHqWxj6GgR5d4ju5bv4b+DzKSTC13CpP91WXH86938afEK38C6dZmbTrm5luIv3LJgR7gOjN2PfG
+K8i+Jugv4Z8JeD9Klx50UMzTY/vsVLfqcfhXuviPwzaeLfCb6VdgDzI1aKTHMUgHysP89M0DOO+H
+/g69u9ek8eeILmCe/vU320Vu25IlYYBz67eAO31rqviL/wAk717/AK83rgfhL4gu9C1e78Ba8fLu
+Ld2NoWPB7lB7H7w+prvviL/yTvXv+vN6AOV+Av8AyINx/wBhCT/0FK9Rry74C/8AIg3H/YQk/wDQ
+Ur0y4uIbS2kuLiRYoYlLu7HAUDkk0CPGfjL4YXSbq28baVOtpeRzIJgrbS7/AMLr6nsfUVv/AAkv
+rXxFDqHiO7uRc+IJ5PKucjHkRj7iIOynrnufpUug2z/ELX/+Eo1OEnQrUtHpFpKvEueGnZT69BXn
++uaff/B3x/Dq+mq76JdsR5eeCh5aI+46qf8A69Az6HoqnpWqWmtaXb6jYSiW2uEDow9PQ+4q5QIK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA+YP2g/wDkpVj/
+ANeMX/ob19NGWPyz+8Tp/eFfMn7Qy7/iNZrnG6wjGf8Agb1tn9my725/4SmPpn/j0P8A8XQBhfs+
+/wDJS7r/AK8pf/Qlq5+0j/yN+kf9eH/tRqo/s9rt+JFwvXFjIP8Ax5avftI/8jdpH/Xj/wCztQB1
+F/8As86Hd6Gs2kX95b35hDp5zh42bGcHjIH0NY3wY8faxZeKT4M12eWaN2eOAzMWeGVM5TJ/hOD9
+DXv2n/8AINtf+uKfyFfLGno11+0ePsTDH9uu4I/uK5LfoDQB7H8ZvAH/AAl3hs39jEDq+nqXjCjm
+aPqyfXuPf615RofxiutI+FN54fZ5P7XjP2eym/uwtnJJ9V5A+o9K+mNW1S00TSbrU7+URWttGZJH
+PYD+vavirWZJtc1bVvElnpXkad9q3uqrmOIuTtU/XB/WgD3P4CeATp9g3izUocXV0pWzVxykXd/q
+3b2+te3VzPgLxRY+LvCNlqNiqRbUEUtun/LF1GCuOw6EexFdNQBxXj74aab8QHsWv726tvsgcJ5G
+3ndjOcg+lfN3jvwRZeFPiDb+HbW6uJreUQkyS7d43nB6DFfY1fMHxk/5LdZf7tr/AOhUAel+HPgT
+oHhzxFZaxDqN/cS2knmJHNs2k44zhe3X8K4T43eKtR17xnB4J02Vlto3jjkRTjzpnxjPqBkceua+
+j6+T9ZSS3/aOH2o/8xyF8n+4XUr+hFAHslh8CvBdvoi2N1ZSXNyUHmXZlZXLdyuDgD2xXkmgajf/
+AAi+LcuiG6eXS3uFhmVujxvja+OgYAg5+or6nr5M+Nymf4vXkcI3SMluoC9S2xeKAPq64/49pf8A
+cP8AKvkj4T+DNL8b+L77TtVM4gitXnXyX2ncHUeh4wxr60ZWXTyrnLCLBPvivmz9nf8A5KJqf/YP
+k/8ARsdAB8Qfhxe/C37N4k8L6teLbeaI3JYCSJjyMkYDKcY5H55r2r4ZeMW8b+DbfUp1VbyNjBch
+RgF1xyB6EEGsn46tGvwo1IPjc0sAT6+Yp/kDXOfs3QzJ4U1aZz+5kvAIx7hBn+YoAf8AtDeITa+H
+bHw7bt+/1GYPIo6+Wh4H4tj8q4n4frcfDP4zpoV/L+6vY0t3boCXUMn5Nx+dZ/ifxbpetfHOPU9W
+mYaLp9ysSlFL5SLJGAOu5x+Rpvxf8X+H/E/iPS9b8OXUrXUMeyYtE0ZBVtyEZ+p/IUAeyfGfwL/w
+lvhRr2ziDarpwMkWBzJH/En9R7j3rnPgV48hfwnfaPqlxsbR42uEdz/y79T/AN8n9CK9V8Ka5H4l
+8K6bq8eP9KgVnA7P0YfmDXzL8YdAHgvx5c/2VM0Ftq1sZmijONquxDp/ukrnHvQBf8O6bdfGX4sX
+Wq30bf2TC4klB6LEDiOL6nv/AMCNfTH9k6d/z4Wv/flf8K5v4aeEbbwf4Ms7SLa9zOonuZQPvuwz
++QHA+ldhQBhXc9roerzX1yzLHdoq5VCfmXPp7YrJ8Q+ItO1HS/It5HaTzFbBQjgGum1XTo9V0+S1
+k4Lco391uxry27tJrG6e2uE2yIcEevuPavFzCpVoJwilyS/Xc9vLqdGu1OTfPH8lsegL4v0cIo86
+Tgf88jWTo/iHTrO+1SWaRwtxceZHhCciuPp8UUk0qxRIXkc4VVHJNcTzKvKUXZXX/DHassoRjJXd
+n/w56Et9Y+Iry1S2d2FtJ5z7kIHA4/WugrJ8P6ONI08RtgzyHdKR6+n0Fa1fQYdT5Oap8T3Pn8RK
+HPy0/hWxW1DULPSrKS8vrhLe2j+/I5wBXzP8QNbttW+J/wDbOnLNcWcDQYkWJsPsIJxx0r6gZVcY
+ZQR6EU3yYv8Anmn/AHyK3OczdE8S6R4jheTSr1LjywDIoBDJnoCD0NackiRRtJIwVEBZiewFCoiZ
+2oq564GKd1GDQB87/GrxFp3iS80uHR5jepbo7SSxISoLYwM45PFei+DvGEN74P0vT9GSG61mG1RJ
+LG4lMDJtGGbJU5GcdPWvQBDEOkSD/gIpRHGrblRQfUCgDxTQPAXjzQPGU/iWOLSpprhpDLC07BSH
+OSAcduK76fU/HnlEW/h3SvMxwXvyR+W0V19Z2q67p2jeUL642PMT5caozu2OpCqCcDuaAOL0LTfH
+OnrquqXtnp91reoShQWudsUESL8gAAORktxxVXwNoPjnwfb3FpPbaZf21xOZzi6ZGRm+9j5SCO9e
+mo6yIrqcqwyD7VlP4n0aPVv7Me+QXW8RY2naHIyELYwGI7ZzQBrjOOetc/4w8I2HjLQ5NPvV2yD5
+oJwPmifsR7eo710FVrG/tdStRc2colhLMm4DupKkfgQaAOO8IaR4h8JeArXS47C2utQillBVrnYm
+0sxDZwc9uK4rwz8P/H3hXxNNrlqukzSXBfzoXnYKwZtxGccYPSvZr2/tdOijku5REkkqxKSOrscK
+PxNWaAOOkb4hX0Zjjj0LS9wwZi8k7r9FwB+Zpvhv4dWGi6o+tX91Nq+uSHLXt1j5T/sL0Wt648R6
+Xa6wulSzt9tYKfLWJmwGOASQMDPvWrQB4/8AEPwV4w8eXlo4tNOsoLRWCK10XZixGSSFHoOK9H8O
+ya39hWHW7K2gmiRVElvP5iyHHJxgbf1qSy8R6VqOoSWNpdebMhYHajbSVOGAbGDg+hrQuLiK0tpb
+idwkMSF3Y9lAyTQB538UvAtzrkUHiDQsx67p+GTZw0qg5AH+0D0/EVkQeLNa+JXhC80HT7Wxg1Mw
+iG+FzOUdTnDMqbehx68E4r0/SNcsNcgafT5XkjUj5miZM5GRjcBn8Ky9Y8D6Rqupx6tGJbDVozlL
+6zbZIf8Ae7MPqKAOa+G3hvxX4KtH0q8tLC4sZrjzTNFckNHkAHgr83QelM8b6H488W2/9nxR6ZZ6
+X5gMsQuWLzqDwGbbwPYV6RbRzRWyJPN58qjDSbAu73wOlS0AZ2iC6TTY4brT4LAwgRpDBN5iBABj
+BwMfSsjx9otz4h8Lz6VbafBdvPwGmm8sQsOjjg5IPbiuoooA8l8AeFfHvgjfbMunXumytua3NyVM
+bd2U7eM9xXrQ6c0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAfNnx50rUr34iWU1pp93cRLZRgvDAzqDvfjIHWvpE/6s/SnUUAfNPwH0nUrL4i3E13p15bx
+GzlAeaBkXO5eMkVb/aG0rUb/AMV6U9nYXVyi2WGaGFnAO9uMgV9F0UAfO/8AwtX4lalp50zTPCT2
+85jEazR2spZRjGRu4zXSfB74VXvhu7k8R+IQBqkqFYYN24xBvvMx/vHp7c+teyUUAfP3xy1/W9d1
+CPwto2m6hLZQODcyx277Zpeyg4wQv8/pXofhX4a6fpfwzbwxfxK730Ra9cDnzWHUH/Z4x9K76igD
+5m+HkviH4Y/EK60m+0++l0qaXyLiSOB2T/YlXAx359ifSvpnqM0UUAFfNnxc0nUrr4zWdzb6fdzQ
+KtrmSOBmUYbnkDFfSdFABXiXxm+GmparqUPivw5EZb6JVFzBHw7bfuuvqR0I68CvbaKAPCrX9oO4
+tdNS21Xwtef2yq7SqnYkjDvgjK/TBrE8BeBtf8c+Pj4y8S2kltZCf7TtlUr5zg/KqqedowOfavo1
+oo2cO0aFh0JUZp9AEc/NtKB/cP8AKvkPwTqvinwHr91qlj4aurmSaFoCs9rKAAWVs8Ac/LX2BRQB
+80ayvxK+MFxZ2Vxorabpsb7/AJomiiU9N7FuWIGcAe9er31gvwz+EdxZaNDNc3MEBSMxxFnlmfgu
+QPc59gK9AooA+fPgp8NbTUbDUtU8UaOZS8ghgivIiCMcs2D65Az7Guv+Ifwp8Pz+B9SbQ9Dt7fUo
+I/Oha3j+ZtvJX3yMjHrivVKKAPGv2fb3UYND1DQdSsru3+zy+fbmeFkBVuGAJHYjP/Aq5f8AaF0r
+Ub/xjpclnp93cotgAzQws4B8x+Mgda+jaKAKmlgrpFkrAhhAgII5HyirdFFABWdq2i2usQ7Jl2yL
+9yVfvL/iPatGipnCM48sldFQnKEuaLszzqTwfqiXghRY3jPSbdhce4611mi+HbXSF8z/AFtyRhpS
+OnsB2rZorkoYCjRlzxWvn0OuvmFetHkk7Ly6hRRRXacQUUUUAFFFFABRRRQAVy+rWuo2Xi+2120s
+H1CH7E1nJDE6q8ZLhgw3EAg4wefSuoooAbGzNErMhRiASpOdp9K88ufDmstBeaElkWhudaGorqHm
+LsWPzVkIIzu3jbtAx6HNei0UAFct4Kh1LTrCTTL/AEua3Ec00i3BkRkkDSswwFJPQ9xXU0UAc74y
+sr290i2FhatdTQX0FwYldVLKjgnBYgZxW3ZTy3NpHNPayWsjD5oZGUsv1Kkj8jU9FAHF3OnapB8R
+JdTjsb+WzmigjD21yiR5UsG8xSQWA3Z4rs3XcjLkjIxkdqWigDgfC+l+JNJvNF014ZodPsIporth
+JGYZ+pjdR9/cScnOK6/XLaW80DUbWBd801tJGi5xlipAFX6KAOb8E299Z6FHZ39pf28kKouby4SY
+sdoB2lScKMdDXSUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQBz994ts7C9ltZIJi8ZwSAMGq/wDwnNh/z73H5D/GuX8Sf8jDef7/APQVlV85VzLE
+RqSins30PpKOWYeVOMmt0up3v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFZ/2pie6+40/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3ne/8JzYf8+9x+Q/xo/4Tmw/597j
+8h/jXBUUf2pie6+4P7Kw3Z/ed7/wnNh/z73H5D/Gj/hObD/n3uPyH+NcFRR/amJ7r7g/srDdn953
+v/Cc2H/PvcfkP8aP+E5sP+fe4/If41wVFH9qYnuvuD+ysN2f3noln4vs729htUgmDSttBIGBXQ15
+Z4f/AORgsf8ArqP5GvU69fLsRUrwcp9GeRmOGp0KijT6oKKKK9A845HxzLJEll5cjplnztYjPArj
+vtdz/wA/M3/fw0UV8vmUmsTLXt+R9VlsU8NHTv8AmH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UVw80u5
+3csewfa7n/n5m/7+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4c
+sewfa7n/AJ+Zv+/ho+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B
+9ruf+fmb/v4aPtdz/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9r
+uf8An5m/7+Gj7Xc/8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5
++Zv+/ho+13P/AD8zf9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCf
+mb/v4aPtdz/z8zf9/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+
+Gj7Xc/8APzN/38NFFHNLuHLHsH2u5/5+Zv8Av4aPtdz/AM/M3/fw0UUc0u4csewfa7n/AJ+Zv+/h
+o+13P/PzN/38NFFHNLuHLHsH2u5/5+Zv+/ho+13P/PzN/wB/DRRRzS7hyx7B9ruf+fmb/v4aPtdz
+/wA/M3/fw0UUc0u4csewfa7n/n5m/wC/ho+13P8Az8zf9/DRRRzS7hyx7B9ruf8An5m/7+Gj7Xc/
+8/M3/fw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8/M3/AH8NFFHNLuHLHsH2u5/5+Zv+/ho+13P/AD8z
+f9/DRRRzS7hyx7B9ruf+fmb/AL+Gj7Xc/wDPzN/38NFFHNLuHLHsH2u5/wCfmb/v4aPtdz/z8zf9
+/DRRRzS7hyx7B9ruf+fmb/v4aPtdz/z8zf8Afw0UUc0u4csewfa7n/n5m/7+Gj7Xc/8APzN/38NF
+FHNLuHLHsRMzOxZmLMepJyTSUUVJQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFAGl4f/AORgsf8ArqP5GvU6KK+hyf8AhS9f0Pnc5/ix9P1P/9k=
+
+--_003_CO2PR0501MB8858A7319DAB735BDDF86FE86830CO2PR0501MB885na_
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2PR05MB2339;9:eKIR0KmML9WmTKaTEN7/fpz4ZYQGhlxAFFWGhQgQqRy4v3X7ayRq74j/MJqzfgwYeNLrewVNOgYqTF8RsisReqnq1sQX2nhd2zfXT13hXqv8TZsZOA/mz7KwBi4MsnXHmbqAXNbwpj0pIsoEM/teI2/hBnuXvEY4e6Q5RkyQ2kvXSITCHNLWq23mWBE1Uny7ksujCp0bz6sURXYCLdyNfw==
+Content-Type: image/png; name="image004.png"
+Content-Description: image004.png
+Content-Disposition: inline; filename="image004.png"; size=450;
+	creation-date="Mon, 05 Dec 2016 15:50:41 GMT";
+	modification-date="Mon, 05 Dec 2016 15:50:41 GMT"
+Content-ID: <image004.png@01D24EDD.089DBD60>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAADYAAAAdCAMAAADW8G8aAAAAAXNSR0ICQMB9xQAAAANQTFRFAAAA
+p3o92gAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1p
+Y3Jvc29mdCBPZmZpY2V/7TVxAAAAFUlEQVQ4y2NgGAWjYBSMglEwCkgCAAY7AAHI8OYzAAAAAElF
+TkSuQmCC
+
+--_003_CO2PR0501MB8858A7319DAB735BDDF86FE86830CO2PR0501MB885na_--
